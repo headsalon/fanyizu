@@ -1,1 +1,5 @@
+{{ if .Params.link }}
+<a href={{ .Params.link }}>{{ .Params.source }}</a>
+{{ else }}
 {{ .Params.source | markdownify }}
+{{ end }}
