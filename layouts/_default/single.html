@@ -1,0 +1,43 @@
+{{ partial "header.html" . }}
+<div class="container">
+<article>
+<div class="article-meta">
+  <h1><span class="title">{{ .Title }}</span></h1>
+
+  {{ if .Params.author }}
+  <span class="author">作者：{{ partial "author_names.html" . }}</br></span>
+  {{ end }}
+
+  {{ if .Params.source }}
+  <span class="source">来源：{{ partial "source.html" . }}</br></span>
+  {{ end }}
+
+  {{ with .Params.tags }}
+  {{ default "Tags: " (index $.Site.Params.text "tags") }}{{ range $i, $e := . }}{{ if $i }}, {{ end }}<a href="{{ relURL (print "/tags/" $e | urlize) }}">{{ $e }}</a>{{ end }}
+  {{ end }}
+</div>
+
+<p></p>
+
+<div class="article-meta">
+  {{ if .Params.description }}
+  <p class="description">@海德沙龙：{{ partial "description.html" . }}</p>
+  {{ end }}
+</div>
+
+{{ if .Params.toc }}
+{{ .TableOfContents }}
+{{ end }}
+
+<main>
+{{ .Content }}
+</main>
+
+{{ partial "author.html" . }}
+{{ partial "info.html" . }}
+{{ partial "prev_next.html" . }}
+{{ partial "comments.html" . }}
+</article>
+</div>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,43 @@
+{{ partial "header.html" . }}
+<div class="container">
+<article>
+<div class="article-meta">
+
+  <div class="categories">
+  {{ range $i, $e := .Params.categories }}
+    {{ if $i }} &hercon; {{ end }}<a href="{{ relURL (print "/categories/" $e | urlize) }}">{{ $e }}</a>
+  {{ end }}
+  </div>
+
+  <h1><span class="title">{{ .Title }}</span></h1>
+
+  {{ if .Params.author }}
+  <span class="author">作者：{{ partial "author_names.html" . }}</br></span>
+  {{ end }}
+
+  {{ if .Params.source }}
+  <span class="source">来源：{{ partial "source.html" . }}</br></span>
+  {{ end }}
+
+  {{ with .Params.tags }}
+  {{ default "Tags: " (index $.Site.Params.text "tags") }}{{ range $i, $e := . }}{{ if $i }}; {{ end }}<a href="{{ relURL (print "/tags/" $e | urlize) }}">{{ $e }}</a>{{ end }}
+  {{ end }}
+
+  {{ partial "meta.html" . }}
+
+</div>
+
+{{ if .Params.toc }}
+{{ .TableOfContents }}
+{{ end }}
+
+<main>
+{{ .Content }}
+</main>
+
+{{ partial "prev_next.html" . }}
+{{ partial "comments.html" . }}
+</article>
+</div>
+
+{{ partial "footer.html" . }}
