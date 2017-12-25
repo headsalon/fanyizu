@@ -173,3 +173,9 @@ tr:nth-child(even) { background: #eee }
   width: 50%;
   margin-left: 0;
 }
+.boxsizingBorder {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+#comment-box { width: 100% }

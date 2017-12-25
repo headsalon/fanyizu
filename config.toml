@@ -54,3 +54,9 @@ paginate = 12
     source = "来源"
     author = "作者"
     original_edito = "编辑"
+
+[staticman]
+    endpoint = "https://api.staticman.net/v2/entry/"
+    username = "headsalon"
+    repository = "fanyizu"
+    branch = "master"

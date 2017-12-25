@@ -1,0 +1,12 @@
+<form method="POST" action="https://api.staticman.net/v2/entry/{{ .Site.Params.staticman.username }}/{{ .Site.Params.staticman.repository }}/{{ .Site.Params.staticman.branch }}/">
+    <input type="hidden" name="options[redirect]" value="{{ .Permalink }}#comment-submitted">
+    <input type="hidden" name="options[entryId]" value="{{ .UniqueID }}">
+    <p>
+        <input name="fields[name]" type="text" placeholder="名字 (必填)">
+        <input name="fields[email]" type="email" placeholder="您的 Email">
+    </p>
+    <p>
+        <textarea id="comment-box" name="fields[body]" placeholder="欢迎留言，支持 Markdown" rows="10"></textarea>
+        <input type="submit" value="发表">
+    </p>
+</form>
