@@ -1,4 +1,4 @@
-<form method="POST" action="https://api.staticman.net/v2/entry/{{ .Site.Params.staticman.username }}/{{ .Site.Params.staticman.repository }}/{{ .Site.Params.staticman.branch }}/">
+<form method="POST" action="{{ $.Site.Params.staticman_endpoint }}{{ .Site.Params.staticman_username }}/{{ .Site.Params.staticman_repository }}/{{ .Site.Params.staticman_branch }}/">
     <input type="hidden" name="options[redirect]" value="{{ .Permalink }}#comment-submitted">
     <input type="hidden" name="options[entryId]" value="{{ .UniqueID }}">
     <p>
