@@ -71,7 +71,7 @@ posts:
         field: title
     tags: ["user-generated"]
   format: "frontmatter"
-  moderation: true
+  moderation: false
   name: "Hugo + Staticman"
   path: "content/post"
   filename: "{fields.slug}"
