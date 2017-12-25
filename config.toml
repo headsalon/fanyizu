@@ -35,10 +35,6 @@ paginate = 12
     summary_length = 300
     github_edit = "https://github.com/headsalon/fanyizu/edit/master/content/"
     footer = "&copy; [海德沙龙](https://headsalon.org/) | [微博](https://weibo.com/headsalon) | [公众号](/about)"
-    staticman_endpoint = "https://api.staticman.net/v2/entry/"
-    staticman_username = "headsalon"
-    staticman_repository = "fanyizu"
-    staticman_branch = "master"
 
 [params.text]
     back = "&larr; 返回首页"
