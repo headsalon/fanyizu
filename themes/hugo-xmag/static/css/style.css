@@ -173,3 +173,7 @@ tr:nth-child(even) { background: #eee }
   width: 50%;
   margin-left: 0;
 }
+#QR_code {
+  width: 200px;
+  height: 200px;
+}
