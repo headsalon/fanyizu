@@ -27,7 +27,7 @@ main { margin-bottom: 15px; }
   justify-content: space-between;
 }
 .header, .list section, article { background: #fff; }
-.banner { font-size: 4em; }
+.banner { font-size: 3em; }
 .banner .text {
   display: block;
   line-height: 1em;
