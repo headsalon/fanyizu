@@ -177,3 +177,4 @@ tr:nth-child(even) { background: #eee }
   width: 200px;
   height: 200px;
 }
+.description { text-align: left;; }
