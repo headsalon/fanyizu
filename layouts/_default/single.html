@@ -19,11 +19,9 @@
 
 <p></p>
 
-<div class="article-meta">
-  {{ if .Params.description }}
-  <p class="description">@海德沙龙：{{ partial "description.html" . }}</p>
-  {{ end }}
-</div>
+{{ if .Params.description }}
+  <p class=article-meta description>@海德沙龙：{{ partial "description.html" . }}</p>
+{{ end }}
 
 {{ if .Params.toc }}
 {{ .TableOfContents }}
