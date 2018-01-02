@@ -1,4 +1,4 @@
-baseurl = "https://headsalon.netlify.com/"
+baseurl = "https://translations.headsalon.org/"
 languageCode = "zh-CN"
 title = "海德沙龙·翻译组"
 theme = "hugo-xmag"
