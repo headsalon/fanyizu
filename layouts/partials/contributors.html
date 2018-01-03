@@ -1,0 +1,13 @@
+翻译：{{ .Params.translator }}<br />
+校对：{{ .Params.proof_reader }}<br />
+{{ if .Params.second_proof_reader }}
+    二校：{{ .Params.second_proof_reader }}<br />
+{{ end }}
+{{ if .Params.plot_maker }}
+    制图：{{ .Params.plot_maker }}<br />
+{{ end }}
+{{ if .Params.editor }}
+    编辑：{{ .Params.editor }}<br />
+{{ else }}
+    编辑：辉格@whigzhou
+{{ end }}

@@ -53,6 +53,8 @@ paginate = 12
     writing_time = "写作时间"
     source = "来源"
     author = "作者"
-    original_edito = "编辑"
+    editor = "译文编辑"
+    original_editor = "原文编辑"
     description = "点评"
+    contributors_included = "正文是否已包含‘编辑’等信息"
 

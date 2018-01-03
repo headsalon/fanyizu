@@ -31,7 +31,11 @@
 {{ .Content }}
 </main>
 
-{{ partial "author.html" . }}
+{{ if not .Params.contributors_included }}
+  <p id="contributors">
+    {{ partial "contributors.html" . }}
+  </p>
+{{ end }}
 {{ partial "info.html" . }}
 {{ partial "prev_next.html" . }}
 {{ partial "comments.html" . }}
