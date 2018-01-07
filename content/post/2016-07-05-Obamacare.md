@@ -2,7 +2,7 @@
 title: 奥巴马医改正在土崩瓦解
 date: 2016-07-05
 tags: ['经济学', '医疗', '制度', '政策', '管制', '进步主义']
-disqus_identifier: "2016-07-05-3"
+disqus_identifier: "2016-07-05-Obamacare"
 proof_reader: "Tankman"
 source: "[Reason](https://reason.com/archives/2015/12/01/obamacare-is-falling-apart-limb-by-limb)"
 author: "Shikha Dalmia"

@@ -2,7 +2,7 @@
 title: 犯罪率波动的文化根源
 date: 2018-01-06
 tags: ['文化', '治安', '犯罪', '种族', '移民']
-disqus_identifier: "2018-01-06-2"
+disqus_identifier: "2018-01-06-crime-rate"
 proof_reader: "混乱阈值(@混乱阈值)"
 source: "[大西洋月刊](http://www.theatlantic.com/politics/archive/2016/06/the-cultural-roots-of-crime/487583/)"
 writing_time: "2016-06-19"

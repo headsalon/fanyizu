@@ -2,7 +2,7 @@
 title: 世界范围收入分布的历史变化
 date: 2015-09-17
 tags: ['经济','收入']
-disqus_identifier: "2015-09-17-4"
+disqus_identifier: "2015-09-17-income-distribution"
 source: "[Information Processing](http://infoproc.blogspot.com/2015/07/i-call-this-progress.html)"
 writing_time: "2015-7-6"
 author: "Stephen Hsu"

@@ -2,7 +2,7 @@
 title: 一位心智哲学家的日常
 date: 2017-09-22
 tags: ['哲学']
-disqus_identifier: "2017-09-22-3"
+disqus_identifier: "2017-09-22-Daniel-Dennett"
 proof_reader: "斑马(@鹿兔马朦)，小聂(@PuppetMaster)"
 source: "[New Yorker](http://www.newyorker.com/magazine/2017/03/27/daniel-dennetts-science-of-the-soul)"
 author: "Joshua Rothman"
