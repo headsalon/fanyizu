@@ -1,5 +1,7 @@
 翻译：{{ .Params.translator }}<br />
-校对：{{ .Params.proof_reader }}<br />
+{{ if .Params.proof_reader }}
+    校对：{{ .Params.proof_reader }}<br />
+{{ end }}
 {{ if .Params.second_proof_reader }}
     二校：{{ .Params.second_proof_reader }}<br />
 {{ end }}
