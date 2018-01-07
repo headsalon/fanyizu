@@ -1,1 +1,5 @@
-{{ .Params.description | markdownify }}
+{{ if .Params.more_description }}
+    @海德沙龙：{{ .Params.description | markdownify }}{{ .Params.more_description | markdownify }}
+{{ else }}
+    @海德沙龙：{{ .Params.description | markdownify }}
+{{ end }}
