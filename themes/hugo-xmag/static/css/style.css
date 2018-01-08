@@ -140,7 +140,7 @@ th, td { padding: 5px; }
 tr:nth-child(even) { background: #eee }
 
 .thumbnail {
-  height: 7.1em;
+  height: 6.8em;
   width: 8.8em;
   float: left;
   overflow: hidden;
@@ -150,7 +150,7 @@ tr:nth-child(even) { background: #eee }
 .thumbnail img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: fill;
 }
 #TableOfContents, #TOC, .comments {
   border: 1px solid #eee;
