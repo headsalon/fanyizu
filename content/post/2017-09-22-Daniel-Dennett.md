@@ -20,7 +20,7 @@ thumbnail: /img/thumbnails/一位心智哲学家的日常.jpg
 **A philosopher’s lifelong quest to understand the making of the mind.**  
 **一位哲学家对心智构成的毕生探索**
 
-* * *
+---
 
 ​Four billion years ago, Earth was a lifeless place. Nothing struggled, thought, or wanted. Slowly, that changed. Seawater leached chemicals from rocks; near thermal vents, those chemicals jostled and combined. Some hit upon the trick of making copies of themselves that, in turn, made more copies. The replicating chains were caught in oily bubbles, which protected them and made replication easier; eventually, they began to venture out into the open sea. A new level of order had been achieved on Earth. Life had begun.
 
@@ -58,7 +58,7 @@ Dennett waited until the group talked itself into a muddle, then broke in. He sp
 
 “因为这样一来他就不再是头狮子了，”另一位研究者说道。
 
-“Right,” Dennett replied. “He would be so different from regular lions that he wouldn’t tell us what it’s like to be a lion. I think we should just get used to the fact that the human concepts we apply so comfortably in our everyday lives apply only sort of to animals.” He concluded, “The notorious *zombie problem* is just a philosopher’s fantasy. It’s not anything that we have to take seriously.”
+“Right,” Dennett replied. “He would be so different from regular lions that he wouldn’t tell us what it’s like to be a lion. I think we should just get used to the fact that the human concepts we apply so comfortably in our everyday lives apply only sort of to animals.” He concluded, “The notorious <em>zombie problem</em> is just a philosopher’s fantasy. It’s not anything that we have to take seriously.”
 
 “对，”丹内特回答道，“他与普通狮子的差异如此之大，以至于他无法告诉我们做一头狮子是什么样的体验。我认为我们应该习惯这样一个事实：我们在日常生活中熟悉的人类概念只能被部分地应用到动物身上。”他总结道，“臭名昭著的僵尸问题只是哲学家的迷思罢了，我们不必认真对待。”
 
