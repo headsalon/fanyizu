@@ -8,7 +8,7 @@ source: "[Reason](https://reason.com/archives/2015/12/01/obamacare-is-falling-ap
 author: "Shikha Dalmia"
 writing_time: "2015-12-01"
 description: "奥巴马将医保改革视为其任内最辉煌成就，实现了民主党人多年来的夙愿，一项其前辈克林顿夫妇着力推动却无法完成的伟大使命，然而现实远非如此美好，奥巴马医改所造成的反向激励正在促使健康人群逃离该系统，进而迫使一些大保险公司退出，一个烂摊子正在形成。奥巴马捣毁了一个并不完美但能够运转的系统，仅仅因为它不符合自己的乌托邦设想……"
-m_d: "</br>继UnitedHealth和Humana之后，又一家主要保险商Aetna因巨额损失而宣布将于明年起退出Obamacare，决定宣布之后，证券分析师纷纷调高其盈利预期，当日股价上涨10%，详见Bloomberg[报道](https://www.bloomberg.com/news/articles/2016-08-16/aetna-quits-most-obamacare-markets-joining-other-major-insurers)。"
+more_description: "</br>继UnitedHealth和Humana之后，又一家主要保险商Aetna因巨额损失而宣布将于明年起退出Obamacare，决定宣布之后，证券分析师纷纷调高其盈利预期，当日股价上涨10%，详见Bloomberg[报道](https://www.bloomberg.com/news/articles/2016-08-16/aetna-quits-most-obamacare-markets-joining-other-major-insurers)。"
 translator: "沈沉（@你在何地-sxy）"
 thumbnail: /img/thumbnails/奥巴马医改正在土崩瓦解.jpg
 ---

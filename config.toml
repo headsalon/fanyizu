@@ -55,6 +55,7 @@ paginate = 12
     author = "作者"
     editor = "译文编辑"
     original_editor = "原文编辑"
-    description = "点评"
+    description = "原始点评"
+    more_description = "后续点评"
     contributors_included = "正文是否已包含‘编辑’等信息"
 
