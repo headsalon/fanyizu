@@ -29,7 +29,7 @@ Barry Latzer是少数在自己的专业领域内同时拥有实践和理论知�
 
 **David Frum: **Your book ends with the ominous possibility that the great crime reduction since the early 1990s is not a permanent transition, but just a temporary trough in a recurring cycle of crime spikes and crime drop-offs. Could you briefly explain the basis of this worrying claim?
 
-**David Frum****：**你书的结尾给出了这样一个预言：自1990年代初期开始的犯罪率下降趋势不是永久的，而是反复发生的犯罪高潮和低谷之间一个暂时的低谷。你能简单解释下这一令人忧虑的说法的基础吗？
+**David Frum：**你书的结尾给出了这样一个预言：自1990年代初期开始的犯罪率下降趋势不是永久的，而是反复发生的犯罪高潮和低谷之间一个暂时的低谷。你能简单解释下这一令人忧虑的说法的基础吗？
 
 **Barry Latzer: **The optimistic view is that the late ‘60s crime tsunami, which ended in the mid-1990s, was sui generis, and we are now in a period of “permanent peace,” with low crime for the foreseeable future. Pessimists rely on the late [Eric Monkkonen](https://en.wikipedia.org/wiki/Eric_Henry_Monkkonen)‘s cyclical theory of crime, which suggests that the successive weakening and strengthening of social controls on violence lead to a crime roller coaster. The current zeitgeist favors a weakening of social controls, including reductions in incarcerative sentences and restrictions on police, on the grounds that the criminal-justice system is too racist, unfair, and expensive. If Monkkonen were correct, we will get a crime rise before long.
 
