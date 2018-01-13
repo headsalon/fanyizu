@@ -5,7 +5,7 @@
   <h1><span class="title">{{ .Title }}</span></h1>
 
   {{ if .Params.author }}
-  <span class="author">作者：{{ partial "author_names.html" . }}</br></span>
+  <span class="author">作者：{{ partial "author_names.html" . }} {{ partial "writing_time.html" . }}</br></span>
   {{ end }}
 
   {{ if .Params.source }}

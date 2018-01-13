@@ -1,4 +1,7 @@
-翻译：{{ .Params.translator }}<br />
+<hr>
+{{ if .Params.translator }}
+    翻译：{{ .Params.translator }}<br />
+{{ end }}
 {{ if .Params.proof_reader }}
     校对：{{ .Params.proof_reader }}<br />
 {{ end }}
