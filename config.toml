@@ -34,7 +34,7 @@ paginate = 12
     description = "我们是一群搬砖工，负责将英文世界的好文章搬进中文世界"
     summary_length = 300
     github_edit = "https://github.com/headsalon/fanyizu/edit/master/content/"
-    footer = "&copy; [海德沙龙](https://headsalon.org/) | [微博](https://weibo.com/headsalon) | [公众号](/about_us)"
+    footer = "&copy; [海德沙龙](https://headsalon.org/) | [微博](https://weibo.com/headsalon) | [公众号](/about)"
 
 [params.text]
     back = "&larr; 返回首页"

@@ -13,3 +13,9 @@ disqus_identifier: "about"
 这样的人多吗？不知道，反正我也不指着它挣钱。
 
 （辉格）
+
+我们的微博：<https://weibo.com/headsalon>
+
+微信公众号： headsalon
+
+<img src="/img/QR_code.jpg" alt="公众号二维码" id="QR_code">
