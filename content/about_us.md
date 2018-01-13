@@ -1,6 +1,7 @@
 ---
 title: 关于我们
 type: "_about"
+disqus_identifier: "about_us"
 ---
 
 我们是一群搬砖工，负责将英文世界的好文章搬进中文世界。
