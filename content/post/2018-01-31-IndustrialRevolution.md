@@ -11,11 +11,11 @@ translator: "eGregius(@eGredius)"
 
 ---
 
-**Review Essay: The Enlightened Economy. An Economic History of Britain, 1700-1850 by Joel Mokyr  
-书评：《觉醒的经济 · 一部不列颠经济史（1700-1850）》，作者：Joel Mokyr** 
+**Review Essay: The Enlightened Economy. An Economic History of Britain, 1700-1850 by Joel Mokyr**  
+**书评：《觉醒的经济 · 一部不列颠经济史（1700-1850）》，作者：Joel Mokyr**
 
-**Gregory Clark, University of California, Davis  
-格里高利·克拉克，加州大学戴维斯分校**
+**Gregory Clark, University of California, Davis**  
+**格里高利·克拉克，加州大学戴维斯分校**
 
 >"Economic change in all periods depends, more than most economists think, on what people believe." (Mokyr, p. 1)  
 "各个历史时期的经济变革受人们观念影响的程度比大多数经济学家想象的要深。"(Mokyr, p. 1) 
@@ -32,7 +32,7 @@ These books can be divided into three broad categories. First there is the “in
 Below I discuss Mokyr’s “idealist” solution to the puzzle of the Industrial Revolution in the context of this wider Industrial Revolution debate.  
 以下我将把Mokyr针对工业革命给出的“观念主义”式的解答放在更大的这场争论的语境下进行讨论。
 
-However while a substantial portion of the The Enlightened Economy, the first 100 pages, is devoted to this classic question, the book is actually two very different works melded in one body. The first of these is Mokyr’s distinctive theory of the cause of the Industrial Revolution. But the remainder of the book, the bulk of the content, is an exhaustive primer on all aspects of the British economy and society 1700-1850. This covers agriculture, industry, transport, services, demography, gender, firms, social norms, institutions and living standards. The resulting work of nearly 300,000 words has been squeezed through some subtle art of typography into a mere 564 pages. There is a treasure trove of information here on the Industrial Revolution, though this gives the text a forbidding density. For example, table 3.1 (p. 47) has 180 numbers listed in its 90 cells! So the second part of the review considers the text as also a general history of the Industrial Revolution era in Britain.
+However while a substantial portion of the The Enlightened Economy, the first 100 pages, is devoted to this classic question, the book is actually two very different works melded in one body. The first of these is Mokyr’s distinctive theory of the cause of the Industrial Revolution. But the remainder of the book, the bulk of the content, is an exhaustive primer on all aspects of the British economy and society 1700-1850. This covers agriculture, industry, transport, services, demography, gender, firms, social norms, institutions and living standards. The resulting work of nearly 300,000 words has been squeezed through some subtle art of typography into a mere 564 pages. There is a treasure trove of information here on the Industrial Revolution, though this gives the text a forbidding density. For example, table 3.1 (p. 47) has 180 numbers listed in its 90 cells! So the second part of the review considers the text as also a general history of the Industrial Revolution era in Britain.  
 然而，尽管《觉醒的经济The Enlightened Economy》投入了大量篇幅（前100页）来考察这一经典议题，该书实则将两套颇为不同的工作熔合在一个框架里。 首当其冲的固然是Mokyr的与众不同的解释工业革命的理论。 然而书的余下内容，占据大块目录的，是1700-1850年英国经济社会上上下下全手册，包括农业，工业，交通，服务业，人口，性别，公司，社会规范，学院和生活标准…最终呈现出的近30万字的内容通过一些精妙的排版艺术被压缩进了区区564页内。这是一个有关工业革命的信息宝库，尽管它给文本带来了令人生畏的密度。举个例子，第47页的表格3.1往90个网格中塞进了180个数字！故而，本书评的第二部分将同时视该书文本为英国工业革命时代的历史概述。
 
 **The Problem of the Industrial Revolution  
