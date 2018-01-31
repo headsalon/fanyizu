@@ -11,11 +11,11 @@ translator: "eGregius(@eGredius)"
 
 ---
 
-**Review Essay: The Enlightened Economy. An Economic History of Britain, 1700-1850 by Joel Mokyr**  
-**书评：《觉醒的经济 · 一部不列颠经济史（1700-1850）》，作者：Joel Mokyr** 
+**Review Essay: The Enlightened Economy. An Economic History of Britain, 1700-1850 by Joel Mokyr  
+书评：《觉醒的经济 · 一部不列颠经济史（1700-1850）》，作者：Joel Mokyr** 
 
-**Gregory Clark, University of California, Davis**  
-**格里高利·克拉克，加州大学戴维斯分校**
+**Gregory Clark, University of California, Davis  
+格里高利·克拉克，加州大学戴维斯分校**
 
 >"Economic change in all periods depends, more than most economists think, on what people believe." (Mokyr, p. 1)  
 "各个历史时期的经济变革受人们观念影响的程度比大多数经济学家想象的要深。"(Mokyr, p. 1) 
