@@ -92,19 +92,16 @@ As Mokyr points out, a high relative price of labor will not increase the rate o
 
 正如Mokyr所指出的，除特殊条件外，相对（其他要素）高的劳动力价格不会刺激更多的创新。而特殊条件必须是，制造商会通过比较稀缺性来决定针对某个要素投入精力寻求创新，并且当地劳动者学习新技术的方案相较于节省其他要素投入会带来更多潜在的收入。同时还必须满足的条件是，节省人力的新技术只能小幅涌现，这样一来它们仅仅在工资高企、能源廉价的国家在一开始是有利可图的，但此后通过当地劳动者的实践与学习，新技术的效率能得到极大地提高。而制造商必须是无法预计这种学习带来的效应的，否则即使那些人力成本低的制造商也会意识到采用新技术几年后他们就能从这一创新中获利。
 
-Even finding specific innovations of the Industrial Revolution that meet the first condition – profitable in England but not in lower wage economies like France – is difficult. The only explicit comparison that Allen makes is for the spinning jenny, a hand powered machine that spun with 24 or more spindles instead of the one of the older spinning wheel. And here, in order to demonstrate the spinning jenny was profitable in England in 1775, but not in France, Allen has to assume that a 24 spindle jenny would produce only 3 times as much per week as a single spindle spinning wheel. Otherwise the labor cost savings per pound of yarn would make the machine profitable at quite low wages. This assumption in turn relies on assuming both that
+Even finding specific innovations of the Industrial Revolution that meet the first condition – profitable in England but not in lower wage economies like France – is difficult. The only explicit comparison that Allen makes is for the spinning jenny, a hand powered machine that spun with 24 or more spindles instead of the one of the older spinning wheel. And here, in order to demonstrate the spinning jenny was profitable in England in 1775, but not in France, Allen has to assume that a 24 spindle jenny would produce only 3 times as much per week as a single spindle spinning wheel. Otherwise the labor cost savings per pound of yarn would make the machine profitable at quite low wages. This assumption in turn relies on assuming both that  
+(a). A 24 spindle jenny would produce only one eighth the amount per spindle hour as a spinning wheel.  
+(b). A jenny spinner would utilize this more expensive capital good for only 24 hours in a whole week (in contrast early cotton factories often worked 80 hours per week or longer).
 
-(a) A 24 spindle jenny would produce only one eighth the amount per spindle hour as a spinning wheel.
-
-(b) A jenny spinner would utilize this more expensive capital good for only 24 hours in a whole week (in contrast early cotton factories often worked 80 hours per week or longer).
-
-即使找到仅满足第一个条件——在英格兰有利可图而在低人力成本的国家（如法国）则不能——的具体的工业革命时期的创新也是困难的。Allen 仅仅以多轴纺织机为例作了比较，这是一种手力机器，相较于老式纺车只有一个轴，它通过24个甚至更多的轴进行纺织。这里，为了表明1775年时多轴纺织机在英格兰而不是法国能创造盈利，Allen 不得不假设24轴纺织机的周产出量仅仅是单轴纺织机的三倍，若不然，每磅纱线的人力节省会使得这一机器在相当低的人力成本下有利可图。而这一假设又同时依赖于以下两个假设：
-
-（a）一台24轴纺织机每轴每小时的产出量只是老式单轴纺车的八分之一。
-
-（b）一台像多轴纺织机这样更昂贵的资本财货每周仅启用24小时。（相较之下早期棉纺织厂每周通常工作80小时以上）。
+即使找到仅满足第一个条件——在英格兰有利可图而在低人力成本的国家（如法国）则不能——的具体的工业革命时期的创新也是困难的。Allen 仅仅以多轴纺织机为例作了比较，这是一种手力机器，相较于老式纺车只有一个轴，它通过24个甚至更多的轴进行纺织。这里，为了表明1775年时多轴纺织机在英格兰而不是法国能创造盈利，Allen 不得不假设24轴纺织机的周产出量仅仅是单轴纺织机的三倍，若不然，每磅纱线的人力节省会使得这一机器在相当低的人力成本下有利可图。而这一假设又同时依赖于以下两个假设：  
+(a).一台24轴纺织机每轴每小时的产出量只是老式单轴纺车的八分之一。  
+(b).一台像多轴纺织机这样更昂贵的资本财货每周仅启用24小时。（相较之下早期棉纺织厂每周通常工作80小时以上）。
 
 The only justification given for assumption (b) is Sir Frederick Eden’s report that women with families can only produce 40% as much hand spinning per week as single women. This presumes that no one thought to employ any of the very large supply of single women on jennies. The average age at first marriage at this time in England was 24 or later.
+
 Allen 给出的对假设（b）的唯一的可靠性证明来自于Frederick Eden爵士的记述：家庭女性每周手力纺织的工作量仅仅是单身女性的40%。这需要你设想当时没人考虑到雇用劳动力市场上大量的单身女性，而这一时期英格兰的一婚平均年龄是24岁或更晚。
 
 The justification for assumption (a) is that jenny spinners in the 1780s were reported to earn about 3 times the amount per week of wheel spinners, assuming they were paid on piece rates (Allen, 2009, 214-5). But if this was a competitive labor market and these quotes are from the same time, then it must be that jenny spinners worked three times as long per week as the average wheel spinner, which violates assumption (b). If they were being paid the same amount per hank (which we would not expect with a superior more capital intensive technique) it would also imply that the productivity of the spinning jenny per hour was only 1/24 per spindle than the spinning wheel, and no-one French or British would ever want to invest in a spinning jenny. If, as seems more likely, these weekly wages of Jenny spinners and wheel spinners reflect different piece rates per hank, and different hours worked per week, then we can infer nothing about the comparative spindle productivity of the Jenny compared to the wheel.
