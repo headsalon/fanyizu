@@ -105,7 +105,7 @@ Still, Geary hesitates to use words like genius or brilliant in describing them.
 
 不过，Geary对使用天才或卓越这样的词汇来描述他们颇为踌躇。 他解释说，"实际上，我们的祖先并是我们智力或创造力的对手，因为他们缺乏同样的文化支持。以经济专业化为基础的农业和现代城市的兴起，使最聪明的人们将精力集中在科学，艺术和其他领域。我们的古代对手没有这样的基础来支持他们，所有的努力只是为了维生。"
 
-**SMALLER BUT SMARTER **
+**SMALLER BUT SMARTER**
 
 更小但更聪明
 When I follow up with Hawks, the anthropologist who first tipped me off about our missing gray matter, I assume that his interpretation of the trend will be like Geary's. But even though Hawks does not doubt the findings of the Missouri team, he puts a completely different (and, in his view, more uplifting) spin on the data.
@@ -124,9 +124,9 @@ The image of a brain dwarfed by its body conjures up dinosaurs, a group not exac
 
 与其身体相比明显偏小的大脑让人想起了恐龙，这是一个不为他们的智力而闻名的群体。但Hawks并不认为这个趋势令人害怕。恰恰相反，他认为我们的脑体积惊人的减少——不管是绝对值还是相对于我们的身材——可能是一个迹象，表示我们实际上变得更聪明。
 
-_As complex societies emerged, brains shrank because those previously unable to survive by wits alone could now scrape by with the help of others._
+> As complex societies emerged, brains shrank because those previously unable to survive by wits alone could now scrape by with the help of others.
 
-_随着复杂社会的出现，大脑缩小，因为以前无法​​通过智慧生存的人们现在可以在别人的帮助下勉强生存。_
+> 随着复杂社会的出现，大脑缩小，因为以前无法​​通过智慧生存的人们现在可以在别人的帮助下勉强生存。
 
 This upbeat perspective is shaped by Hawks's focus on the energy demands of the brain. The organ is  [such a glutton for fuel](http://www.fi.edu/learn/brain/carbs.html),he says, that it gobbles up 20 percent of all the calories we consume. "So although a bigger brain can presumably carry out more functions, it takes longer to develop and it uses more energy." Brain size probably depends on how those opposing forces play out.
 
@@ -140,7 +140,7 @@ Hawks notes that such changes would be consistent with the many  [brain-related 
 
 Hawks指出，这种变化与过去2万年中的我们观察到的许多与脑相关的DNA突变是一致的。他推测，器官的布线模式变得更加合理，神经化学发生变化，或者两者相继发生变化提高我们的认知能力。
 
-**A TAMER BREED **
+**A TAMER BREED**
 
 **一个更温顺的品种**
 
