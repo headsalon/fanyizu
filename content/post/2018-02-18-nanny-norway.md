@@ -2,7 +2,7 @@
 title: 与保姆挪威的生活 - 生活在一个社会民主的"天堂"到底是什么样子？
 author: Bruce Bawer
 date: 2018-02-18
-tags: ['挪威', '国家主义'，'自由']
+tags: ['挪威', '国家主义', '自由']
 disqus_identifier: "2018-02-18-nanny-norway"
 source: "[Frontpage Mag](https://www.frontpagemag.com/fpm/267984/life-nanny-norway-bruce-bawer#disqus\_thread)"
 writing_time: "2017-09-27"
