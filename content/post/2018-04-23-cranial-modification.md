@@ -18,8 +18,7 @@ thumbnail: /img/thumbnails/如何拥有一颗高贵的头颅.jpg
 --------------
 * * *
 
-![颅骨的刻意修饰，又称“图卢兹畸形”。（图片来源：Wikimedia Commons）](/img/2018-04-23-cranial-modification/1.jpg)  
-颅骨的刻意修饰，又称“图卢兹畸形”。（图片来源：Wikimedia Commons）
+![颅骨的刻意修饰，又称“图卢兹畸形”。（图片来源：Wikimedia Commons）](/img/2018-04-23-cranial-modification/1.jpg)_颅骨的刻意修饰，又称“图卢兹畸形”。（图片来源：Wikimedia Commons）_
 
 **​In 2013, archaeologists working in** Alsace, in eastern France, uncovered something incongruous, and to the untrained eye, very strange. The researchers discovered the tomb and skull of an aristocrat, who died some 1,600 years ago. Her skull was heavily deformed, with the front flattened, and the rear rising into a cone shape. An amateur digger might have been forgiven for thinking they had found one of the “[Grey aliens](http://en.wikipedia.org/wiki/Grey_alien)” that UFO-spotters regularly claim to see.
 
@@ -41,8 +40,7 @@ While early European observers of the practice in France and in Eastern Europe r
 
 尽管早期观察到这种法国、东欧习俗的欧洲人会同情头部被束的儿童，但随后的研究让专家们相信，颅骨修饰对认知能力并没有影响，脑容量也并无不同。根据《[神经外科](http://www.ncbi.nlm.nih.gov/pubmed/17538389)》杂志上一篇[2007年的文献](http://www.ncbi.nlm.nih.gov/pubmed/17538389)，“即使在那些实行重度颅骨修饰的社会，也没有任何证据表明存在负面影响。”
 
-![(Photo: Didier Descouens/WikiCommons CC SA 3.0)](/img/2018-04-23-cranial-modification/2.jpg)  
-(Photo: Didier Descouens/WikiCommons CC SA 3.0)
+![(Photo: Didier Descouens/WikiCommons CC SA 3.0)](/img/2018-04-23-cranial-modification/2.jpg)_(Photo: Didier Descouens/WikiCommons CC SA 3.0)_
 
 ​In Iraqi Kurdistan, near the borders with Iran and Turkey, a cemetery from the proto-Neolithic period was discovered in 1960. The site, called Shanidar Cave, dates back more than ten thousand years, and contains the bodies of 35 individuals, including some of the first examples of intentional skull shaping. The Huns and Alans both seem to have originated in Central Asia, and as they pushed westward into the Roman Empire (often invited as mercenaries), their practice of head binding came with them, and was adopted by some peoples living in Western and Central Europe.
 
@@ -60,8 +58,7 @@ And it is not only European authors who found the practice amazing. Xuanzang, a 
 
 并不是只有欧洲作者惊奇于此种习俗。中国佛教僧人和旅行者玄奘的17年印度之旅为中国经典小说《西游记》提供了灵感，他也曾报道过这种习俗，是在当今中国西部新疆地区碰到的。玄奘提到了喀什葛尔（Kashgar）的人们，那里普通人家的孩子头部会被用木板压平。
 
-![(Photo: Tropenmuseum/ Royal Tropical Institute/WikiCommons CC BY-SA 3.0)](/img/2018-04-23-cranial-modification/3.jpg)  
-(Photo: Tropenmuseum/ Royal Tropical Institute/WikiCommons CC BY-SA 3.0)
+![(Photo: Tropenmuseum/ Royal Tropical Institute/WikiCommons CC BY-SA 3.0)](/img/2018-04-23-cranial-modification/3.jpg)_(Photo: Tropenmuseum/ Royal Tropical Institute/WikiCommons CC BY-SA 3.0)_
 
 ​Thus, this woman discovered in France fits into a broader cultural narrative—one of migration, of high rank and social status, and of conquest. While it would be easy to write the practice off as being an odd thing that was popular thousands of years ago, it wouldn’t be anywhere near the truth.
 
@@ -79,8 +76,7 @@ Two different styles of artificial cranial deformation were prevalent in Mayan c
 
 两种不同类型的人工颅骨变形在玛雅文化中流行，而且显示了所有者的等级。那些注定（或希望）拥有高等社会地位的人会施行“斜角变形”，形成又高又尖的头部形状。然而，一般人只能使用“垂直变形”，形成颅骨浑圆、两侧扁平的形状。这些头部形状究竟是模仿美洲虎的颅骨来显示力量，还是模仿玉米神来象征丰收，历史学家和考古学家还在争论不休。
 
-![秘鲁伊卡城中伊卡地区博物馆展示的帕拉斯卡头骨（图片来源：Wikimedia Commons）](/img/2018-04-23-cranial-modification/4.jpg)  
-秘鲁伊卡城中伊卡地区博物馆展示的帕拉斯卡头骨（图片来源：Wikimedia Commons）
+![秘鲁伊卡城中伊卡地区博物馆展示的帕拉斯卡头骨（图片来源：Wikimedia Commons）](/img/2018-04-23-cranial-modification/4.jpg)_秘鲁伊卡城中伊卡地区博物馆展示的帕拉斯卡头骨（图片来源：Wikimedia Commons）_
 
 ​Artificial cranial deformation was also recorded amongst the remains of people as far distant as Australia and the Caribbean islands. But it’s not just an ancient practice. It still occurs in some of the world’s more remote outposts.
 
@@ -94,4 +90,4 @@ More than a millennia after she died, the ancient aristocratic woman discovered 
 
 在死后一千多年里，这位在阿尔萨斯发现的古代贵妇并不孤独。像任何人体修饰一样，美不美只能由观者说了算。而如今，她仍然拥有像她一样崇敬同样头型和习俗的同好。
 
-![(Photo: Wellcome Images, London)](/img/2018-04-23-cranial-modification/5.jpg)<figcaption>(Photo: Wellcome Images, London)</figcaption>
+![(Photo: Wellcome Images, London)](/img/2018-04-23-cranial-modification/5.jpg)_(Photo: Wellcome Images, London)_
