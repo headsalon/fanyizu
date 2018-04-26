@@ -1,0 +1,16 @@
+.banner { font-size: 4em; }
+.article-meta a { text-decoration: none; }
+.thumbnail {
+  height: 6.8em;
+  width: 8.8em;
+}
+.thumbnail img { object-fit: fill; }
+#QR_code {
+  width: 200px;
+  height: 200px;
+}
+.description { text-align: left;; }
+p img + em  {
+  display: block;
+  text-align: center;
+}
