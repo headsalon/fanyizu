@@ -27,7 +27,7 @@ main { margin-bottom: 15px; }
   justify-content: space-between;
 }
 .header, .list section, article { background: #fff; }
-.banner { font-size: 4em; }
+.banner { font-size: 3em; }
 .banner .text {
   display: block;
   line-height: 1em;
@@ -80,7 +80,7 @@ article { padding: 1em; }
 .article-footer { text-align: left; }
 .title { font-size: 1.2em; }
 .article-list h1, .title { line-height: 1.2em; }
-.article-list a, .header a, footer a, .categories a, .active a, .comments a { text-decoration: none; }
+.article-meta a, .article-list a, .header a, footer a, .categories a, .active a, .comments a { text-decoration: none; }
 .pagination { text-align: center; }
 .pagination li, .terms li { display: inline; }
 .pagination a { padding: 0 .2em; }
@@ -140,8 +140,8 @@ th, td { padding: 5px; }
 tr:nth-child(even) { background: #eee }
 
 .thumbnail {
-  height: 5.1em;
-  width: 6.8em;
+  height: 6.8em;
+  width: 8.8em;
   float: left;
   overflow: hidden;
   margin: 5px 8px 5px 0;
@@ -150,7 +150,7 @@ tr:nth-child(even) { background: #eee }
 .thumbnail img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: fill;
 }
 #TableOfContents, #TOC, .comments {
   border: 1px solid #eee;
@@ -172,4 +172,13 @@ tr:nth-child(even) { background: #eee }
 .footnotes hr {
   width: 50%;
   margin-left: 0;
+}
+#QR_code {
+  width: 200px;
+  height: 200px;
+}
+.description { text-align: left;; }
+p img + em  {
+  display: block;
+  text-align: center;
 }
