@@ -6,6 +6,7 @@ tags: ['教育', '年龄效应']
 disqus_identifier: "2018-6-23-Long-term-relative-age-effect"
 source: "[VoxEU](http://voxeu.org/article/relative-age-effect-over-long-term)"
 writing_time: "2016-04-23"
+description: "大量的跨学科文献表明：在教育和体育领域，由于组内相对成熟程度的差别，同年龄组内最年轻的孩子常处于不利地位。这一现象被称为&quot;相对年龄效应&quot;。本文探讨了这种效应是否能持续到成年。通过对意大利职业足球运动员薪资的调查，结果发现此相对年龄效应是无法摆脱的。"
 translator: "约伯(@约伯_)"
 proof_reader: "混乱阈值（@混乱阈值)"
 thumbnail: /img/thumbnails/比同班同学小几个月会有什么关系吗？.jpg
