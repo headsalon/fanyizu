@@ -6,7 +6,7 @@ tags: ['教育', '年龄效应']
 disqus_identifier: "2018-6-23-Long-term-relative-age-effect"
 source: "[VoxEU](http://voxeu.org/article/relative-age-effect-over-long-term)"
 writing_time: "2016-04-23"
-description: "大量的跨学科文献表明：在教育和体育领域，由于组内相对成熟程度的差别，同年龄组内最年轻的孩子常处于不利地位。这一现象被称为&quot;相对年龄效应&quot;。本文探讨了这种效应是否能持续到成年。通过对意大利职业足球运动员薪资的调查，结果发现此相对年龄效应是无法摆脱的。"
+description: "现代教育的年级分班制度带来的一个直接后果是：班级内学生之间会有几个月的年龄差异，这是无法消除的——除非人类也像北美白尾鹿那样只在十月至十一月之间的第二个满月后的一星期内集中交配——，那么，这一貌似微不足道的差异会给孩子的身心发展带来什么影响吗？虽然乍看上去有点不可思议，但确实有影响，至少在某些方面，而且这一影响可能是长期的，也就是会延续到成年之后。"
 translator: "约伯(@约伯_)"
 proof_reader: "混乱阈值（@混乱阈值)"
 thumbnail: /img/thumbnails/比同班同学小几个月会有什么关系吗？.jpg
