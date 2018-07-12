@@ -3,7 +3,7 @@ title: 比同班同学小几个月会有什么关系吗？
 author: Luca Fumarco, Giambattista Rossi
 date: 2018-06-23
 tags: ['教育', '年龄效应']
-disqus_identifier: "2018-6-23-Long-term-relative-age-effect"
+disqus_identifier: "2018-06-23-Long-term-relative-age-effect"
 source: "[VoxEU](http://voxeu.org/article/relative-age-effect-over-long-term)"
 writing_time: "2016-04-23"
 description: "现代教育的年级分班制度带来的一个直接后果是：班级内学生之间会有几个月的年龄差异，这是无法消除的——除非人类也像北美白尾鹿那样只在十月至十一月之间的第二个满月后的一星期内集中交配——，那么，这一貌似微不足道的差异会给孩子的身心发展带来什么影响吗？虽然乍看上去有点不可思议，但确实有影响，至少在某些方面，而且这一影响可能是长期的，也就是会延续到成年之后。"
