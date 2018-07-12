@@ -495,7 +495,7 @@ However, Disney&#39;s Bambi is an empty symbol, because the concept of nature th
 
 Nature, symbolized by Disney&#39;s infant Bambi, an infant with endearing human qualities, becomes something fragile and vulnerable. It becomes something that we must nurture and protect. (52) This can be a useful metaphor, given our enormous technological abilities to destroy our environment. However, grave problems lie ahead if we confuse a fetching metaphor with the living reality of deer, other wildlife, or our environment. After all, the challenge we face is to protect real wildlife in a real environment, not the Disney version.
 
-迪斯尼的婴孩斑比象征着自然，它有着让人喜爱的人类特质，却变得脆弱和易受伤害。它成为了一种我们必须培育和保护的东西［52］。考虑到我们极为先进的破坏环境的技术能力，这可以成为一个有用的比喻。然而，如果我们把感人的故事和现实中的鹿和其它野生动物以及环境想混淆，那么我们将面临严峻的问题。毕竟，我们所面临的挑战是在真实的——而非迪斯尼电影中那个——环境中保护现实中的野生动物。
+迪斯尼的婴孩斑比象征着自然，它有着让人喜爱的人类特质，却变得脆弱和易受伤害。它成为了一种我们必须培育和保护的东西［52］。考虑到我们极为先进的破坏环境的技术能力，这可以成为一个有用的比喻。然而，如果我们把感人的故事和现实中的鹿和其它野生动物以及环境想混淆，那么我们将面临严峻的问题。毕竟，我们所面临的挑战是在真实的环境中——而非迪斯尼电影中那个——保护现实中的野生动物。
 
 ## NOTES
 
