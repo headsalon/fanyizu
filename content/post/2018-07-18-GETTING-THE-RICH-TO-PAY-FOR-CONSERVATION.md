@@ -10,7 +10,6 @@ description: "假设你知道自己即将进入植物人状态，你银行账户
 translator: "崔航(@银斑龙猫AI)"
 proof_reader: "混乱阈值(@混乱阈值)"
 thumbnail: /img/thumbnails/商业狩猎带来的地区物种繁荣.jpg
-
 ---
 # GETTING THE RICH TO PAY FOR CONSERVATION
 
