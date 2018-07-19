@@ -74,7 +74,7 @@ In the early 2000s, at Otterburn in Northumberland, the trust did a neat [experi
 
 *"The breeding success of some species was significantly improved with predator removal (see Figure 1). For lapwing, golden plover, curlew, red grouse and meadow pipit, on average a three-fold improvement was seen, from 23% of pairs fledging young without predator removal to 64% of pairs fledging young with predator removal…*
 
-*"*对掠食动物的驱除明显提高了一些物种的繁育成功率（如图1所示）。田凫、金珩、麻鹬、红松鸡和草地鹨育有雏鸟的配偶比例平均翻了三倍，由23%增至64%…*
+*"对掠食动物的驱除明显提高了一些物种的繁育成功率（如图1所示）。田凫、金珩、麻鹬、红松鸡和草地鹨育有雏鸟的配偶比例平均翻了三倍，由23%增至64%…*
 
 *For all the wader species (curlew, golden plover, lapwing, we found increases in abundance with predator removal (mean annual change +37%) and decreases in abundance with no predator removal (mean annual change -28%), but the changes in abundance were statistically significantly different only for curlew (with a three-year lag) and lapwing."*
 
@@ -128,9 +128,9 @@ Here is an extract from a [2014 article](http://africanindaba.com/2014/03/kenya-
 
 *所以到底发生了什么？狩猎禁令在发达国家没什么问题，但对于那些肯尼亚偏远地区的居民来说则是灾难性的——那些需要保护的野生动物恰好生活在这种地方。总而言之，生活在灌木丛里的部落承担着保护当地野生动物的责任，但他们却不能从这些动物身上获利。这对那些处在勉强维生的低水平经济中的农牧民来说是无法容忍的。*
 
-*Subsequent to the ban, they could not respond – legally – when an elephant raided their maize and stomped their goats, or when a lion killed a cow. But laws made in Nairobi are seldom if ever applied with rigor in the Kenyan bush. Even as animal rights groups lionized Kenya's no-kill policy and * [urged its adoption across Africa](http://alumni.berkeley.edu/news/california-magazine/januaryfebruary-2009-effect-change/lion-king)*, the killing has continued unabated. Carnivores are poisoned, antelope snared, elephants speared and shot: Crops can thus be raised and the livestock grazed in peace.*
+*Subsequent to the ban, they could not respond – legally – when an elephant raided their maize and stomped their goats, or when a lion killed a cow. But laws made in Nairobi are seldom if ever applied with rigor in the Kenyan bush. Even as animal rights groups lionized Kenya's no-kill policy and [urged its adoption across Africa](http://alumni.berkeley.edu/news/california-magazine/januaryfebruary-2009-effect-change/lion-king), the killing has continued unabated. Carnivores are poisoned, antelope snared, elephants speared and shot: Crops can thus be raised and the livestock grazed in peace.*
 
-*由于禁令的存在，当地人没有合法的手段防止大象闯入玉米地踩死山羊，或者狮子杀死他们的牛。但中央政府制定的法律在肯尼亚的灌木丛里几乎从未被严格执行过。就在动物权利团体大肆吹捧肯尼亚禁猎政策并要求将其推广到全非洲时，杀戮在继续，没有丝毫减弱的迹象。食肉动物被毒死，羚羊落入陷阱，大象被刺死或射杀*……*只有这样才能保住庄稼，让家畜安静地吃草。*
+由于禁令的存在，当地人没有合法的手段防止大象闯入玉米地踩死山羊，或者狮子杀死他们的牛。但中央政府制定的法律在肯尼亚的灌木丛里几乎从未被严格执行过。就在动物权利团体大肆吹捧肯尼亚禁猎政策并要求将其推广到全非洲时，杀戮在继续，没有丝毫减弱的迹象。食肉动物被毒死，羚羊落入陷阱，大象被刺死或射杀……只有这样才能保住庄稼，让家畜安静地吃草。
 
 *[Michael Norton-Griffiths](http://www.mng5.com/concerns.htm), who has served as the senior ecologist for Tanzania's Serengeti National Park and the manager of the Eastern Sahel Program for the International Union for the Conservation of Nature, likened the situation to owning a goat. Assume, says Norton-Griffiths that you're a poor pastoralist in rural Kenya, and your assets consist of a goat. You can eat this goat, or milk it. You can sell it, gaining hard currency that you can use to buy necessities. Or you can breed it, increasing your asset base in the form of another goat. But now imagine that a law is passed that forbids you to eat, sell, or breed that goat. In fact, the only thing you can do with it is allow tourists to take pictures of it. Even then, you obtain no benefit; the money derived from the tourists photographing the goat goes to the owner of the "eco-lodge" they are patronizing. By substituting wildlife for the goat, says Norton-Griffiths, you have the situation that exists in Kenya today."*
 
