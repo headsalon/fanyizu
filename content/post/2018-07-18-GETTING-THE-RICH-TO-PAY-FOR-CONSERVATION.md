@@ -4,7 +4,7 @@ author: Matt Ridley
 date: 2018-07-18
 tags: ['商业狩猎', '动物保护']
 disqus_identifier: "2018-07-18-GETTING-THE-RICH-TO-PAY-FOR-CONSERVATION"
-source: "[rational optimist](http://www.rationaloptimist.com/blog/grouse-and-lions/)"
+source: "[Rational Optimist](http://www.rationaloptimist.com/blog/grouse-and-lions/)"
 writing_time: "2016-08-12"
 description: "假设你知道自己即将进入植物人状态，你银行账户里有1000亿美元，你希望自己的生命能维持下去，直到某种新医疗手段能将你复苏（如果届时你的遗产尚未耗尽的话），现在你的律师为你准备了两份遗嘱，这两份遗嘱都旨在用你的遗产设立一个信托，用于维持你的生命并在条件允许时尝试复苏，差别是，第一份选择某个非洲政府为遗嘱执行人，并规定它不得从中获取任何利益，第二份则选择五个自然人为遗嘱执行人，规定他们在你生命延续期内可以获取信托资本的全部额外收益（即扣除生命维持成本后），只要他们确保不动用其中的100亿美元复苏储备金，你会选择哪份遗嘱？"
 translator: "崔航(@银斑龙猫AI)"
