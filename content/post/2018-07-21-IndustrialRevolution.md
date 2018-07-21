@@ -1,9 +1,9 @@
 ---
 title: 书评：《觉醒的经济 · 一部不列颠经济史（1700-1850）》
 author: Gregory Clark
-date: 2018-01-31
+date: 2018-07-21
 tags: ['经济史', '工业革命']
-disqus_identifier: "2018-01-31-IndustrialRevolution"
+disqus_identifier: "2018-07-21-IndustrialRevolution"
 source: "[Journal of Economic Literature](http://faculty.econ.ucdavis.edu/faculty/gclark/Book_Reviews/Mokyr%20JEL%202012.pdf)"
 writing_time: "2012"
 description: "历史学家总是对一些被认为改变了历史进程的重大转折点执着不已，苦心爬梳，埋头寻找各种可能的『原因』，比如终结了美好的维多利亚时代的一战，为什么他们会打这样一场无比惨烈却看不出什么明显理由的战争乃至拖垮了乐观向上积极进取的维多利亚精神并释放出无数妖孽？另一个让历史学家魂牵梦绕的转折点，是英国的工业革命，在本文作者和其他许多经济史家看来，假如我们不得不以最简单粗暴的方式划分人类经济史的话，那么这一历史可以简单分为两个时代：1800年之前的马尔萨斯时代，和此后的后马尔萨斯时代，而分隔两个时代的转折点，就是工业革命，问题是，它为何会发生？"
