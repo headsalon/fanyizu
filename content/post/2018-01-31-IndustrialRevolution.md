@@ -98,7 +98,7 @@ In brief the British were no smarter or more energetic than anyone else, they ju
 
 As Mokyr points out, a high relative price of labor will not increase the rate of innovation in a society, except under special circumstances. It has to be the case that producers pay attention to the relative scarcities of factors in deciding where to devote energy to innovation, and that there are inherently more potential gains through local “learning by doing” from labor saving technological change than from saving on other inputs (pp. 268-9).  
 
-正如 Mokyr 所指出的，除特殊条件外，（相对其他要素）较高的劳动力价格不会刺激更多的创新。而特殊条件必须是，制造商会通过比较稀缺性来决定针对某个要素投入精力寻求创新，并且当地劳动者学习新技术的方案相较于节省其他要素投入会带来更多潜在的收入。  
+正如 Mokyr 所指出的，除特殊条件外，（相对其他要素）较高的劳动力价格不会刺激更多的创新。而特殊条件必须是，制造商会通过比较稀缺性来决定针对某个要素投入精力寻求创新，并且当地劳动者学习新技术的方案相较于节省其他要素投入会带来更多潜在的收入。（268-9 页）
 
 It also has to be the case that labor saving technological advances occur in small increments, so that they are only initially profitable in high wage/low energy cost countries, but then through local learning by doing become much more effective. And producers cannot anticipate the learning effects, otherwise even those with lower labor costs will see that after a few years they will gain from such innovation.  
 
