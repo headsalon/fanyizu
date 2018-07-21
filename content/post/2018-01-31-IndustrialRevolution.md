@@ -136,7 +136,7 @@ If we focus on the price of coal relative to wages as the key inducer of mechani
 
 如果我们集中于机械化的关键催化剂：煤炭 / 工资相对价格，这一价格在 18 世纪并非特别低。图 1 显示了从 1300-9 到 1860-9 按 50 年移动平均数计算的煤炭价格波动，其中煤炭价格由建筑工匠购买一吨煤所需的工作天数来衡量。正如图中所示，至少从 1300 年开始，煤炭在英格兰一直很低廉：甚至在中世纪，工作不到 6 天，一个工匠就可以买一吨煤。英格兰煤炭之丰富是名副其实的。在东北部纽卡斯尔附近的煤田，海底煤层被挖掘出来，煤炭被侵蚀、冲刷到海滩上（正如今天发生的那样）。
 
-![](/img/2018-01-31-IndustrialRevolution/1.jpg)
+![煤炭价格/工资 曲线，1300年~1869年](/img/2018-01-31-IndustrialRevolution/1.jpg)
 
 Even in the Middle Ages the monks of Durham were exploiting the rich coal seams of the northeast. And “seacoal,” presumably from the northeast coal fields, is recorded in use in Westminster Palace near London as early as 1259. After 1600 average coal prices to consumers increased, in part because of taxation of the sea trade in coal from the northeast coalfield to the south.  
 
