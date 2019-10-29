@@ -1,0 +1,173 @@
+---
+title: 浪漫的狩猎-采集社会？
+author: William Buckner
+date: 2019-10-29
+tags: ['人类学']
+disqus_identifier: "2019-10-29-romanticizing-hunter-gatherer"
+source: "[Quillette](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/)"
+writing_time: "2016-08-12"
+description: "对“狩猎-采集”社会的浪漫描述是否站得住脚？对其的浪漫幻想又为何经久不衰？"
+translator: "江户托米"
+proof_reader: "Drunkplane"
+thumbnail: /img/thumbnails/浪漫的狩猎-采集社会？.jpg
+---
+# ​​Romanticizing the Hunter-Gatherer
+---
+
+<em>O Man, to whatever country you belong and whatever your opinions, listen: here is your history as I believe I have read it, not in the books of your fellow men who are liars but in Nature which never lies.  
+Jean-Jacques Rousseau, [A Discourse on Inequality](http://amzn.to/2j9xfRy)
+
+哦朋友，无论你是哪个国家，无论你持什么观点，听着：正如我相信我读过的，你的历史不在骗子所书写的历史书中，而在从不说谎的大自然中。
+
+——卢梭《论人类不平等的起源和基础》</em>
+
+In 1966, at the ‘Man the Hunter’ symposium held at the University of Chicago,anthropologist Richard B. Lee presented a paper that would radically rewrite how academics and the public at large interpret life in hunter-gatherer societies. Questioning the notion that the hunter-gatherer way of life is a“precarious and arduous struggle for existence,” Lee instead described a society of relative comfort and abundance. Lee studied the !Kung of the Dobe area in the KalahariDesert (also known variously as Bushmen, the San people, or the Ju/’hoansi) and noted that they required only 12 to 19 hours a week to collect all the food they needed. Lee further criticized the notion that hunter-gatherers have a low life expectancy, arguing that the proportion of individuals older than 60 among the !Kung, “compares favorably to the percentage of elderly in industrialized populations.”[1](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn1)On the basis of Lee’s work, and other material presented at the symposium, anthropologist Marshall Sahlins coined the phrase “original affluent society” to describe the hunter-gatherer way of life.
+
+1966年，一场名为“猎人”的人类学大会于芝加哥大学召开，人类学家理查德·李发表了一篇论文，从根本上改写了学界和普罗大众对狩猎-采集社会的认知。狩猎者-采集者的生活方式是“危险且艰难地挣扎着生存”这一说法受到李的质疑，他认为那是相对舒适且富足的社会。李研究了位于喀拉哈里沙漠Dobe地区的昆人（也被称作布须曼人、桑人、或是Ju/’hoansi），注意到他们每周只需要劳动12-19小时去收集他们所需要的食物。李更进一步批评认为狩猎-采集社会预期寿命低的观点，指出昆人中60岁以上的老龄人的人口比例，“足以媲美工业化社会的高龄人口比例。”[1](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn1)根据李的论文及论坛上展示的其他材料，人类学家马歇尔·萨林斯创造出“原始丰饶社会”这个词语来形容狩猎-采集社会的生活方式。
+
+
+![](/img/2019-10-29-romanticizing-hunter-gatherer/1.jpg)
+
+Affluence without Abundance by James Suzman 《丰饶不丰富》—詹姆斯·苏茨曼
+
+
+It’s not often that you see a 50-year-old paper repeatedly referenced in mainstream publications, but you can find mentions of Lee’s work pretty much everywhere today. In the [*Guardian*](https://www.theguardian.com/inequality/2017/oct/29/why-bushman-banter-was-crucial-to-hunter-gatherers-evolutionary-success), the [*New York Times*](https://www.nytimes.com/2017/07/24/opinion/the-bushmen-who-had-the-whole-work-life-thing-figured-out.html), the [*London Review of Books*](https://www.lrb.co.uk/v39/n23/steven-mithen/why-did-we-start-farming), the [*Financial Times*](https://www.ft.com/content/d0dd56be-c024-11e7-b8a3-38a6e068f464), and [*Salon*](https://www.salon.com/2017/12/02/feeling-jealous-during-the-holidays-that-can-be-a-good-thing/), among others. Much of this attention has to do with two recently published books, [*Against the Grain*](http://amzn.to/2yJMg1R) by James C. Scott and [*Affluence without Abundance*](http://amzn.to/2AXYgmn) by James Suzman, both of which are informed by Lee and Sahlins’s conception of hunter-gatherer affluence. [An article](https://www.newyorker.com/magazine/2017/09/18/the-case-against-civilization) in the September 18 issue of the <em>New Yorker</em> by John Lanchester heavily cites each of these books in order to make “The Case Against Civilization.”
+
+你很难看到五十年之前的论文反复被主流出版物反复引用，但你可以看到今天几乎所有地方都提到了李的成果。包括《英国卫报》、《纽约时报》、《伦敦书评》、《金融时报》和《沙龙》在内的刊物。很多关注点都落在两本最近出版的书上，一本是詹姆斯·C·斯科特写的《格格不入》，一本是詹姆斯·苏茨曼写的《丰饶不丰富》，这两本书都受到李和萨林斯关于狩猎-采集社会丰饶的观点的启发。《纽约时报》9月18日约翰·兰彻斯特的署名文章着重引用了这两本书来“反对文明”。
+
+So, are Lee and Sahlins, and Scott and Suzman, and Lanchester correct? Is the hunter-gatherer lifestyle a more optimal way to live, and have the benefits of civilization been drastically overstated?
+
+所以，李、萨林斯、斯科特以及苏茨曼就是正确无误的吗？狩猎-采集生活方式是一种更理想的生活方式吗？难道文明世界的益处被大大夸张了吗？
+
+Let us first revisit the !Kung themselves. As Lee himself would later mention in his 1984 book on the Dobe !Kung, his original estimate of 12-19 hours workedper week did not include food processing, tool making, or general housework,and when such activities were included he estimated that the !Kung worked about 40-44 hours per week.[2](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn2) Lee noted that this number still compares quite favorably to the average North American wage earner, who spends over 40 hours a week above their wage labor doing housework or shopping. Even with the revised figures, this seems to indeed point to a life of greater leisure among hunter-gatherers (or, at least, among the !Kung)than industrialized populations. However, it is important to note that this does not take into account the difficulty or danger involved in the types of tasks undertaken by hunter-gatherers. It is when you look into the data on mortality rates, and dig through diverse ethnographic accounts, that you realize how badly mistaken claims about an “original affluent society”really are.
+
+让我们回头看看昆人。正如李之后在他写于1984年的书《Dobe !Kung》中会提到的那样，他早先平均每周工作12-19小时的判断并不包括食品加工、工具制造、一般家务的时间，加上这些时间，他估计他们每周要花费40-44小时。[2](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn2)李写道，这个时长和北美普通劳工不相上下，这些北美劳工每周投入超过40小时在清洁卫生或导购这类工作上。即使使用修订后的数字来比较，好像狩猎-采集社会（至少在昆地区）的闲暇时间确实比北美工业化的人群多一些。但关键是，这些记载并没有考虑到狩猎-采集社会的工作难度和危险程度。只有当你观察死亡数字和深挖各种民族志的记录时，你才会意识到 “原始丰饶社会”这一说法错得有多深。
+
+While you’ll read much about Lee’s work in the popular press, you’ll find little on his critics. Anthropologists Henry Harpending and LuAnn Wandsnider wrote, “Lee’s (1968, 1969, 1979) studies of !Kung diet and caloric intake have generated a misleading belief among anthropologists and others that !Kung are well fed and under little or no nutritional stress.”[3](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn3) They note that “1964 may have been an unusually productive year for bush food,” and compare it with work describing the severe effects of the 1973 environment, “…people were starving, and weight loss and widespread social disruption occurred.” In 1986, Nancy Howell wrote that “…the !Kung are very thin and complain often of hunger, at all times of the year.”[4](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn4)  In [*Hunter and Habitat in the Central Kalahari Desert*](http://amzn.to/2yKxNT3), George B. Silberbauer states that, “Undoubtedly Bushmen do succumb in years of very serious drought,” and describes how 37 individuals of another San population,the G/wi,died of dehydration during the drought of 1939.[5](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn5) And in a 1986 article entitled “EthnographicRomanticism and the Idea of Human Nature,” Melvin Konner & Marjorie Shostak summed it up well, stating that, “Data on morbidity and mortality, though not necessarily relevant to abundance, certainly made use of the term “affluent” seem inappropriate.”[6](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn6)
+
+当你在主流出版物上阅读大量关于李的研究的时候，你几乎不会找到对他的批判。人类学家亨利·哈本汀和LuAnn Wandsnider 写道，“李（在1968、1969、1979年发表的）关于昆人的饮食和卡路里摄入的研究导致在人类学家及其他人中流传着一个错误的观念，那就是昆人吃的很好，不会面对营养不良的压力。”[3](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn3)他们记录道“1964年可能是罕见的灌木食品丰收的年份。”然后和1973年严峻的环境下的工作对比一下，“人们忍受着饥饿、体重下降和广泛发生的社会骚乱。”在1986年，Nancy Howell写道“…昆人非常瘦，一年中总是抱怨饥饿。”[4](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn4)在《喀拉哈里沙漠中的猎人和栖息地》一文中，乔治·B·施巴布亚认为“毫无疑问，布须曼人在严重的干旱年份过得很艰难。”，他又描述了另外37个桑人在1939年的旱灾中如何死于脱水[5](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn5) 。其后，在一篇1986年名为“人种志的浪漫主义和人类自然的观点”文章中，梅尔文·科纳和玛乔丽·肖斯特克总结得非常好：“发病率和死亡率的数据表明，虽然并不一定和丰富程度有关，但用‘丰饶’这个形容词肯定是不合适的。”[6](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn6)
+
+![](/img/2019-10-29-romanticizing-hunter-gatherer/2.jpg)
+
+Two Hadzabe men in Tanzania returning from a hunt.坦桑尼亚两个狩猎归来的哈扎比人
+
+In his later work, Lee would acknowledge that, “Historically, the Ju/’hoansi have had a high infant mortality rate…”[7](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn7) In a study on the life histories of the !Kung NancyHowell found that the number of infants who died before the age of 1 was roughly 20 percent.[8](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn8) (As high as this number is, it compares favorably with estimates from some other hunter-gatherer societies, such as among the Casiguran Agta of the Phillipines, where the rate is 34 percent.)[9](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn9)  Life expectancy for the !Kung is 36 years of age.[10](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn10) Again, while this number is only about half the average life expectancy found among contemporary nation states, this number still compares favorably with several other hunter-gatherer populations, such as the Hiwi (27 years) and the Agta (21 years). Life expectancy across pygmy hunter-gatherer societies is even lower, ranging from about 16-24 years, although this may have as much to do with pygmy physiology as with the hunter-gatherer lifestyle.[11](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn11)
+
+在其后来的著作中，李指出“从历史上看，Ju/’hoansi 人有很高的婴儿死亡率…”[7](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn7)在一项对昆人寿命历史的研究中，Nancy Howell发现将近20%的婴儿一岁前夭折。[8](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn8)（其他狩猎-采集社会的数字可以与之媲美，比如菲律宾的Casiguran Agta人，这个数字是34%。）[9](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn9)昆人的预期寿命是36岁。[10](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn10)这个数字只是当代民族国家预期寿命的一半，这个数字依然和其他狩猎-采集社会相当，比如希维族人（27岁）和Agta人（21岁）。俾格米人人的狩猎-采集社会的预期寿命甚至更低，16-24岁不等，虽然这也许不光和狩猎-采集社会的生活方式有很大关系，还和俾格米人的生理特点有很大关系。[11](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn11)
+
+Much is made of the increased risk of infectious disease in large, concentrated, sedentary populations, but comparatively little attention has been given to the risk of ‘traveler’s diarrhea’ common among hunter-gatherers. For mobile groups, infants, the elderly, and other vulnerable individuals have little opportunity to develop resistance to local pathogens. This may help explain why infant and child mortality among hunter-gatherers tends to be so high. Across hunter-gatherer societies, only about 57% of children born survive to the age of 15. Sedentary populations of forager-horticulturalists, and acculturated hunter-gatherers,have a greater number of children surviving into adulthood, with 64% and 67%,respectively, surviving to the age of 15.
+
+关于有大量集中人口的定居族群，其罹患传染性疾病的风险，已有了大量关注，但是几乎没有人关注到狩猎-采集社会的人口普遍罹患“旅行者腹泻”的风险。流动人口、婴儿、老年人及其他脆弱群体几乎没有机会产生抵抗当地病原体的抗体。这也许可以解释为什么狩猎-采集社会的婴幼儿死亡率显得如此之高。整个狩猎-采集社会，只有57%的儿童能活到15岁。采集-种植族群和半狩猎-采集半种植群组这样的定居族群有更多的儿童能活到成年时期，也就是活到15岁，比例分别是64%和67%。
+
+But what about egalitarianism? In a 2004 study, Michael Gurven marshals an impressive amount of cross-cultural data and notes that hunters tend to keep more of their kill for themselves and their families than they share with others.[12](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn12) While there is undeniably a great deal of sharing across hunter-gatherer societies, common notions of generalized equality are greatly overstated. Even in circumstances where hunters give away more of their meat than they end up receiving from others in return, good hunters tend to be accorded high status, and rewarded with more opportunities to reproduce everywhere the relationship has been studied.[13](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn13) When taking into account ‘embodied wealth’ such as hunting returns and reproductive success, and ‘relational wealth’ such as the number of exchange and sharing partners, Alden Smith _et al._ calculated that hunter-gatherer societies have a‘moderate’ level of inequality, roughly comparable to that of Denmark.[14](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn14) While this is less inequality than most agricultural societies and nation states, it’s not quite the level of egalitarianism many have come to expect from hunter-gatherers.
+
+(印象中对狩猎-采集社会的)平均主义又如何呢？在2004年的研究中，Michael Gurven列举了大量跨文化数据，并且指出了狩猎者分给自己或者自己的家庭的猎物往往比分给其他人的多。[12](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn12)虽然不可否认狩猎-采集社会有大量共享，但是通常以为广泛存在于狩猎采集社会中的平均主义其实是被大大高估了。即使在猎人付出更多的肉而最终收获更少回报的情况下，优秀的猎人也往往拥有更高的地位，并总是获得了更多繁殖机会。当考虑到 “现实财富”（例如获得狩猎回报和生殖成功）和“关系财富”（例如交换和共享伙伴的数量）， Alden Smith等人计算得出：猎人-采集者社会的不平等水平处于“中等”水平，大致可与丹麦相提并论。虽然这不像大多数农业社会和民族国家那么不平等，但这并不像很多人对狩猎-采集社会所期望的那样。
+
+In the realm of reproductive success, hunter-gatherers are even more unequal than modern industrialized populations, exhibiting what is called “greater reproductive skew,” with males having significantly larger variance in reproductive success than females.[15](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn15) Among the Ache of Paraguay, males have over 4 times the variance in reproductive success that females do, which is one of the highest ratios recorded. This means some male send up having lots of children with different women, while a significant number of males end up having none at all. This is reflected in the fact that polygynous marriage is practiced in the majority of hunter-gatherer societies for which there are data. Across these societies, the average age at marriage for females is only 13.8, while the average age at marriage for males is 20.7.[16](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn16) Rather than defending what would be considered child marriage in contemporary Western societies, anthropologists often omit mentioning this information entirely.
+
+在生殖成功方面，狩猎-采集社会甚至比现代工业社会更不平等，展现了所谓“更多生育倾斜”，也就是说在繁殖成功度上，男性比女性有巨大的不确定。[15](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn15)巴拉圭的Ache人中，男性生殖成功的不确定性超出女性四倍，这是所有记录中最高的一个比例。这意味着有些男性一生中会和不同的女性有很多子孙，同时也有相当多的男性终其一生没有一个后代。这实际上反映了这样一个事实：大多数有调查数据的狩猎-采集社会实行一夫多妻制婚姻。在所有这些社会中，女性的平均结婚年龄只有13.8岁，而男性的平均结婚年龄是20.7岁。[16](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn16)人类学家经常省去完整的信息，从而省去为在当代西方社会被认为是童婚的事情辩护的麻烦。
+
+According to anthropologists Douglas Fry and Geneviève Souillac, “Nomadic forager data suggest a human predilection toward equality, including gender equality, in ethos and action,”[17](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn17) yet the available data do not support this notion in the slightest. On the contrary, in 1978 Robert Tonkinson had found that, among the Mardu hunter-gatherers of Australia,“Mardu men accord themselves  greater ritual responsibility, higher status, more power, and more rights than women. It is a society in which male interests generally prevail when rights are contested and in the centrally important arena of religious life.”[18](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn18) Among the Hiwi of Venezuela, and the female infants and children are disproportionately victims of infanticide, neglect, and child homicide.[19](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn19) [20](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn20) It is in fact quite common in hunter-gatherer societies that are at war, or heavily reliant on male hunting for subsistence, for female infants to be habitually neglected or killed.[21](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn21) [22](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn22) In 1931, Knud Rasmussen recorded that, among the Netsilik Inuit, who were almost wholly reliant on male hunting and fishing, out of 96 births from parents he interviewed, 38 girls were killed (nearly 40 percent).[23](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn23)
+
+根据人类学家道格拉斯·弗莱和Geneviève Souillac所说，游牧采集社会的数据显示在气质和行动上，人类偏好平等，包括性别平等。[17](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn17)迄今为止可用的数据根本不支持这样的见解。与之相反，1978年Robert Tonkinson发现在澳大利亚的Mardu采集-狩猎社会中，“Mardu族男性赋予自己比女性更多的仪式责任，更高的地位，更多权力及权利。当权利发生冲突和重要的宗教生活中，这是一个男性利益优先的社会。”[18](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn18)委内瑞拉的希维族种族中，女婴和女童受到杀婴、被忽视以及杀童的比例出奇得高。[19](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn19) [20](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn20)这样的现象在狩猎-采集社会处于战争或种族延续过于依赖男性狩猎时十分常见，女婴习惯性地被忽视或是杀害。[21](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn21) [22](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn22)在1931年， Knud Rasmussen有过这样的记载，奈特斯利克因纽特人的生计曾几乎完全仰赖男性狩猎、捕鱼，他采访过96位新生儿的父母，其中38位女孩被杀害（将近40%）。[23](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn23)
+
+It is also instructive to compare the homicide rates of hunter-gatherer societies with those of contemporary nation states. In a 2013 paper entitled “From thePeaceful to the Warlike,” anthropologist Robert Kelly [provides homicide data](https://books.google.com/books?id=YtwSz2A12e8C&q=153#v=snippet&q=homicide%20rates%20among%20hunter-gatherers%20with%20data%20to%20calculate%20population%20pressure&f=false) for 15 hunter-gatherer societies.[24](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn24)
+
+比较狩猎-采集社会和当代民族国家的谋杀率也能很受启发。在2013年一篇名为“从和平到好战”的论文中，人类学家Robert Kelly提供了15个采集-狩猎社会的的杀人数据。[24](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn24)
+
+![](/img/2019-10-29-romanticizing-hunter-gatherer/3.jpg)
+
+*Kelly’s table is published in ‘War, Peace and Human Nature: The Convergence ofEvolutionary and Cultural Views’ edited by Douglas P. Fry, p 153.*
+
+_Kelly 的数据表发表在道格拉斯·弗莱所编的《战争，和平和人性：进化和文化观点的收敛性》一书中_
+
+11 of these 15 societies have homicide rates higher than that of the most violent [modern nation](https://en.wikipedia.org/wiki/List_of_countries_by_intentional_homicide_rate#By_country), and 14 out of the 15 have homicide rates higher than that of the United States in 2016. The one exception, the Batek of Malaysia, have a long history of being violently attacked and enslaved by neighboring groups, and developed a survival tactic of running away and studiously avoiding conflict. Yet even they recount tales of wars in the past, where their shamans would shoot enemies with blowpipes.[25](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn25) Interestingly, Ivan Tacey & Diana Riboli have noted that “…the Batek frequently recount their nostalgic memories of British doctors, administrators and army personnel visiting their communities in helicopters to deliver medicines and other supplies,” which conflicts with the idea that hunter-gatherer societies would have no want or need of anything nation states have to offer. From 1920-1955 the !Kung had a homicide rate of 42 / 100,000 (about 8 times that of the US rate in 2016), however Kelly mentions that, “murders ceased after 1955 due to the presence of an outside police force.”
+
+这15个社会中有11个社会的谋杀犯罪率比最暴力的现代国家更高，有14个社会的谋杀犯罪率比美国2016年的数据更高。只有一个例外——马来西亚的巴特客人，曾经有很长一段时间遭受着猛烈的攻击，受到邻近部落的奴役，这样的命运使他们发展了一套逃跑和刻意避免冲突的求生策略。即使在他们描述过去战争的故事里，他们的巫师也只用吹管射杀敌人。[25](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn25)有趣的是，Ivan Tacey 和 Diana Riboli这样记载着：“巴克特人经常怀恋从前英国的医生、官员和军事人员搭乘直升机访问他们的部落，并为他们送来了药品及其他物资。”这样的行为显然和认为狩猎-采集社会不想也不需要政府提供任何援助的观点冲突。1920-1955年间，昆人的杀人犯罪率为42/100,000（相当于美国2016年这一数据的8倍），但是Kelly提到：“由于外部警察武装的出现，1955年后谋杀停止了。”
+
+Many of the recent articles in the popular media on hunter-gatherer societies have failed to represent these societies accurately. The picture you get from reading articles in publications like the <em>New Yorker</em> and the _Guardian_, or from anthropologists like Douglas Fry and JamesSuzman, is often quite different from what a deep dive into the ethnographic record reveals. The excessive reliance on a single paper published 50 years ago has contributed to some severe misconceptions about hunter-gatherer‘affluence,’ and their relative freedom from scarcity and disease. There is a tendency to downplay the benefits of modern medicine, institutions, and infrastructure – as well as the very real costs of not having access to them– in these discussions. And, despite what some may wish to believe, the hunter-gatherer way of life is not a solution to the social problems found in modern nation states.
+
+最近主流媒体上很多关于采集-狩猎社会的文章没能准确描述这些社会。类似《纽约时报》《卫报》这样的出版物，或者比如道格拉斯·弗莱和詹姆斯·苏茨曼这样的人类学家，阅读他们的文章得到的印象常常和深入研究的民族志记录里所展现的内容大相径庭。过分依赖一篇50年前发表的论文导致这样严重的错误认识：狩猎-采集社会是所谓 “丰饶”的，他们相对免于匮乏和疾病。这些讨论总是倾向于低估现代医药、制度和基础建设的好处以及缺乏这些现代因素而带来的真实代价而且，虽然某些人抱有某种期望，但是狩猎-采集社会的生活方式不能为现代社会的问题提供解决方案。
+
+So, what explains the popularity of this notion of an “original affluent society”? Why do people in societies with substantially greater life expectancy, reduced infant mortality, greater equality in reproductive success, and reduced rates of violence,[26](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn26) [27](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn27) romanticize a way of life filled with hardships they have never experienced? In wealthy, industrialized populations oriented around consumerism and occupational status, the idea that there are people out the reliving free of greed, in natural equality and harmony, provides an attractive alternative way of life. To quote anthropologist David Kaplan, “The original affluent society thesis then may be as much a commentary on our own society as it is a depiction of the life of hunter-gatherers. And that may be its powerful draw and lasting appeal.”[28](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn28) One might think that if avarice, status hierarchies, and inequality are peculiarly modern phenomena, then maybe they aren’t part of human nature, and with the right kind of activism, and enough forward-thinking individuals, such problems can be readily solved by changing the culture.
+
+所以，我们要怎么解释“原始丰饶社会”这一概念的流行呢？为什么享受着大幅提高的预期寿命、逐步降低的婴儿死亡率、更平等的繁殖机会、和更低的暴力程度[26](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn26) [27](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn27)的人们却会美化另一种生活方式，那种生活方式充满了他们没经历过的苦难呢？富裕、工业化社会里的人们被消费主义和职业地位所包围，而没有贪欲、生来平等、和睦的生活方式为他们提供了另一个颇具吸引力的选择。引用人类学家David Kaplan的话来说：“原始丰饶社会的论点在描述狩猎-采集社会时就像是评论我们现代社会。这可能是采集-狩猎社会这么有吸引力的原因。”[28](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn28)有些人可能以为贪财、身份等级、不平等是现在社会特有的现象，并不是人类本性，那么如果具备正确的行动理念，和思想进步的个体，这样的问题便可以通过改变文化轻易解决。
+
+Conversely, to look across human cultures and notice that even the smallest and most‘egalitarian’ societies are still plagued by problems of violence, sexism, xenophobia, and inequality may be disheartening for many political progressives and anthropologists dedicated to social justice. These problems are not new – in fact they are very old indeed–and they cannot simply be wished away or made to disappear with misleading commentary. But there is a concern that acknowledging the deep roots of many human social ills is to excuse them, or to concede that they can never be mitigated or overcome. This is not only defeatist, it is completely misguided. Recent human history is undeniably a story of enormous progress. If global declines in [child mortality](https://ourworldindata.org/child-mortality/), [hunger](https://ourworldindata.org/hunger-and-undernourishment/), [violence](https://ourworldindata.org/ethnographic-and-archaeological-evidence-on-violent-deaths/), and [poverty](https://ourworldindata.org/extreme-poverty/#historical-poverty-around-the-world), and increases in [life expectancy](https://ourworldindata.org/life-expectancy/) do not represent progress, then the word simply has no meaning.
+
+与之相反，纵观人类文化，就会发现即使最小、最平等的社会依然充满暴力、性别歧视、排外心理、和不平等的问题，这些问题也许让那些投身社会正义事业的政治进步主义者和人类学家心灰意冷。这些问题并不新鲜——事实上它们都是老问题——它们不会简单地凭愿望就能解决或者依据误导性的言论就会消失。。但也存在另一种担忧，认为承认许多人类社会顽疾的深层根源是为了逃避责任，或是宣告这些顽疾是无法减轻或战胜的。这不仅是失败主义的，而且完全是一种误导。毫无疑问，近代人类史述说了巨大的进步。如果<u>儿童死亡率</u>、<u>饥饿</u>、<u>暴力</u>和<u>贫穷</u>的数字下降，<u>预期寿命</u>增加这些现象不能代表人类社会的进步，那么这些词根本就没有意义。
+
+Additionally, progressives and many anthropologists understandably do not wish to denigrate other cultures, or to give the appearance of doing so. In his book [_Sick Societies_](http://amzn.to/2yKBfx7), anthropologistRobert Edgerton writes, “…certain practices, all anthropologists know, are sometimes not reported because doing so would offend the people being described or discredit them in the eyes of others.”[29](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn29) Anthropologists often show an admirable concern for the well-being of people in the societies they study, and exercise great care in considering how their work will be interpreted by outsiders. But academics and media figures have a responsibility to report the truth as accurately as possible, and when their values prevent them from doing so they do a disservice to the public, and risk damaging their own credibility.
+
+此外，进步人士和许多人类学家当然不会贬低其他文化，或是这么表现出来。人类学家Robert Edgerton在他的著作《病态社会》中写道：“所有人类学家都知道，有些做法有时不会被报道出来，因为这么做会冒犯到被提到的人，或者破坏他们在他人眼里的形象。”[29](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn29)人类学家常常对他们所研究社会的人的福祉显出友好的关切，小心翼翼地担心局外人会怎样理解他们的工作。但是学者和媒体人有责任尽可能准确地报道真实情况，当他们的价值观念防止他们这么做时，他们其实是在伤害公众，而且是拿他们自己的信誉冒险。
+
+At this year’s annual meeting of the [AmericanAnthropological Association](http://www.americananthro.org/index.aspx), President Alisse Waterston [said that](https://twitter.com/AprilMBeisaw/status/937103009351380994) the “responsibility now for anthropologists is to participate in envisioning an alternative world.” Wantingto help shape a better world is a worthy goal. I do not doubt the good intentions of President Waterston or many of the other anthropologists who see flaws in their own societies and feel a deep responsibility to help make the world a better place. But envisioning a better world cannot come at the expense of accurately describing the existing one. If academics and journalists are unwilling to report uncomfortable facts, then they have no one but themselves to blame if they suffer a consequent loss of public trust.
+
+在今年的美国人类学协会年度会议上，阿利斯·沃特斯顿会长说：“现在人类学家的责任是参与展望另一个世界。”渴望塑造一个更好的世界是一个值得追求的目标。我毫不怀疑沃特斯顿会长和其他许多人类学家是出于好心，他们注意到自己社会中存在的不足，深感有责任使世界变得更好。但是展望一个更好的世界不能以对当前社会的准确描述为代价。如果学者和记者不愿报道令人不安的事实，那么，当他们失去公众的信任时，他们怨不得别人。
+
+For as long as humans have been around, people the world over have faced similar struggles: getting enough to eat, navigating social relationships, dealing with parasites and disease, raising their young. It’s a nice idea to believe that somewhere deep in the past, or still today in a more remote part of the world,there existed or exists a society that has figured it all out; where everyone is healthy and happy and equal, untouched by the difficulties of modern living.But even if violence, inequality, discrimination, and other social problems are universal and part of human nature, that doesn’t mean their prevalence can’t be reduced. They can and recent [trends](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts/) make this abundantly clear. Denying the scope of the problem, pretending that these social issues are uniquely modern or uniquely Western, or the product of agriculture or capitalism, does not help to fix our contemporary social ills. Instead it leaves us more confused about the causes of these problems, and, consequently, less equipped to solve them.
+
+只要人类还一起生活，世界上的人们都会面临类似的挣扎：争取温饱、打理社会关系、克服寄生虫和疾病、养育后代。相信曾经的某个时候、或许当今世界某个遥远的地方，有这样一个社会，那里满足以下所有条件：那里每个人都健康、快乐、平等，没有现代生活的困难，这是个美丽的想法。但即使暴力、不平等、歧视、以及其他社会问题是普遍的，也是人类本性的一部分，但这并不意味着这些问题的普遍性无法得到消减。这些问题能够解决，而且最近的趋势清晰地证明了这一点。否定问题的普遍性，假设这些问题只是现代社会或西方世界所特有，或者认为是农业或资本主义的产物，这样的态度无助于解决当代社会问题，反而让我们对这些问题的根源更加困惑，结果我们对解决这些问题更加束手无策。
+
+**WilliamBuckner is a student of Evolutionary Anthropology at UC Davis. He is interestedin cultural evolution and understanding human conflict patterns acrosscultures. He can be followed on Twitter **[**@Evolving_Moloch**](https://twitter.com/Evolving_Moloch)
+
+**WilliamBuckner是加州大学戴维斯分校进化人类学的一名学生。他对文化进化、通过文化理解人类冲突模式感兴趣。可以通过推特Twitter **[**@Evolving_Moloch**](https://twitter.com/Evolving_Moloch)**关注他。**
+
+**References:**
+
+[1](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref1) Lee, R., 1966, What Hunters Do for a Living, or,How to Make Out on Scarce Resources. In _Man the Hunter_ (ed. by R.Lee & I. Devore). Chicago: Aldine Publishing.  
+[2](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref2) Lee, R.,1984, 2013 The Dobe Ju/’hoansi, Belmont: Cengage Learning.
+
+[3](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref3) Harpending, H., & Wandsnider, L., 1982,Population Structure of Ghanzi and Ngamiland !Kung. _Current Developments in Anthropological Genetics_
+
+[4](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref4) Howell, N., 1986, Feedback and buffers in Relation to Scarcity and Abundance: Studies of Hunter-Gatherer Populations. in <em>The State of Population Theory</em> (ed. by D. Coleman and R. Schofield). NewYork: Basil Blackwell.
+
+[5](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref5) Silberbauer, G., 1981, _Hunter and Habitat in the Central Kalahari Desert_. United Kingdom: Cambridge University Press.
+
+[6](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref6) Konner, M., & Shostak, M., 1986, EthnographicRomanticism and the Idea of Human Nature: Parallels Between Samoa and !KungSan. in _The Past and Future of !Kung Ethnography: Critical Reflections and Symbolic Perspectives. Essays in Honour of Lorna Marshall _(ed. byM. Biesele). Netherlands: John Benjamins Publishing Company.
+
+[7](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref7) Lee, R., 1984, 2013 The Dobe Ju/’hoansi, Belmont:Cengage Learning.
+
+[8](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref8) Howell, N., 1979, _Demography of the Dobe !Kung_. New York: Academic Press.
+
+[9](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref9) Headland, T.,1988, Ecosystemic change in a Philippine tropical rainforest and its effect on a Negrito foraging society, _Tropical Ecology_
+
+[10](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref10) Gurven, M., & Kaplan, H., 2007 Longevity AmongHunter-Gatherers: A Cross-Cultural Examination, _Population andDevelopment Review_
+
+[11](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref11) Migliano, A.B., et al., 2007, Life HistoryTrade-Offs Explain the Evolution of Human Pygmies, _PNAS_
+
+[12](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref12) Gurven, M., 2004, To Give and to Give Not: TheBehavioral Ecology of Human Food Transfers, _Behavioral and BrainSciences_
+
+[13](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref13) Alden Smith, E., 2004 Why do good hunters have higher reproductive success? _Human Nature_
+
+[14](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref14) Alden Smith, E., et al., 2010, Wealth Transmission and Inequality Among Hunter-Gatherers,_Current Anthropology_
+
+[15](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref15) Brown, G., et al., 2009, Bateman’s principles and human sex roles, _Cell Press_
+
+[16](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref16) Binford, L., 2001, Constructing Frames ofReference, An Analytical Method for Archaeological Theory Building UsingEthnographic and Environmental Data Sets. Berkeley: University of CaliforniaPress.
+
+[17](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref17) Fry, D., & Souillac, G., 2017, The OriginalPartnership Societies: Evolved Propensities for Equality, Prosociality, andPeace, _Interdisciplinary Journal of Partnership Societies_
+
+[18](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref18) Tonkinson, R., 1978, The Mardudjara Aborigines:Living the dream in Australia’s desert. New York: Holt, Rinehart, &Winston.
+
+[19](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref19) Hill, K., et al., 2007 High adult mortality amongHiwi hunter-gatherers: Implications for human evolution, _Journal ofHuman Evolution_
+
+[20](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref20) Hurtado, A.M., & Hill, K., 1996, Ache LifeHistory: The Ecology and Demography of Foraging People. New York. Routledge
+
+[21](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref21) Divale, W.T., & Harris, M., 1976, Population,Warfare, and the Male Supremacist Complex,_American Anthropologist_
+
+[22](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref22) Hewlett, B.S., 1991, Demography and Childcare inPreindustrial Societies, _Journal of Anthropological Research_
+
+[23](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref23) Rasmussen, K., 1931, _The Netsilik Eskimos,Social Life and Spiritual Culture_. Copenhagen: Gyldendal.
+
+[24](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref24) Kelly, R., 2013, From the Peaceful to the Warlike:Ethnographic and Archaeological Insights into Hunter-Gatherer-Warfare andHomicide. in _War, Peace, and Human Nature: The Convergence ofEvolutionary and Cultural Views _(ed. by Douglas P. Fry). UnitedKingdom: Oxford University Press.
+
+[25](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref25) Tacey, I., & Fiboli, D., 2014, Violence, fear and anti-violence: the Batek of Peninsular Malaysia, _Journal ofAggression, Conflict and Peace Research_
+
+[26](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref26) Keeley, L., 1996, _War Before Civilization_.United Kingdom: Oxford University Press.
+
+[27](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref27) Pinker, S., 2011, _The Better Angles of OurNature._ London: Penguin Books.
+
+[28](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref28) Kaplan, D., 2000, The Darker Side of the “OriginalAffluent Society”, _Journal of Anthropological Research_
+
+[29](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftnref29) Edgerton, R.B., 1992, 2010, _Sick Societies_.New York: Simon & Schuster.
