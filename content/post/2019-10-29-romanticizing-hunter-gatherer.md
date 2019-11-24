@@ -27,8 +27,7 @@ In 1966, at the ‘Man the Hunter’ symposium held at the University of Chicago
 
 
 ![](/img/2019-10-29-romanticizing-hunter-gatherer/1.jpg)
-
-Affluence without Abundance by James Suzman 《丰饶不丰富》—詹姆斯·苏茨曼
+_Affluence without Abundance by James Suzman 《丰饶不丰富》—詹姆斯·苏茨曼_
 
 
 It’s not often that you see a 50-year-old paper repeatedly referenced in mainstream publications, but you can find mentions of Lee’s work pretty much everywhere today. In the [*Guardian*](https://www.theguardian.com/inequality/2017/oct/29/why-bushman-banter-was-crucial-to-hunter-gatherers-evolutionary-success), the [*New York Times*](https://www.nytimes.com/2017/07/24/opinion/the-bushmen-who-had-the-whole-work-life-thing-figured-out.html), the [*London Review of Books*](https://www.lrb.co.uk/v39/n23/steven-mithen/why-did-we-start-farming), the [*Financial Times*](https://www.ft.com/content/d0dd56be-c024-11e7-b8a3-38a6e068f464), and [*Salon*](https://www.salon.com/2017/12/02/feeling-jealous-during-the-holidays-that-can-be-a-good-thing/), among others. Much of this attention has to do with two recently published books, [*Against the Grain*](http://amzn.to/2yJMg1R) by James C. Scott and [*Affluence without Abundance*](http://amzn.to/2AXYgmn) by James Suzman, both of which are informed by Lee and Sahlins’s conception of hunter-gatherer affluence. [An article](https://www.newyorker.com/magazine/2017/09/18/the-case-against-civilization) in the September 18 issue of the <em>New Yorker</em> by John Lanchester heavily cites each of these books in order to make “The Case Against Civilization.”
@@ -48,8 +47,7 @@ While you’ll read much about Lee’s work in the popular press, you’ll find 
 当你在主流出版物上阅读大量关于李的研究的时候，你几乎不会找到对他的批判。人类学家亨利·哈本汀和LuAnn Wandsnider 写道，“李（在1968、1969、1979年发表的）关于昆人的饮食和卡路里摄入的研究导致在人类学家及其他人中流传着一个错误的观念，那就是昆人吃的很好，不会面对营养不良的压力。”[3](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn3)他们记录道“1964年可能是罕见的灌木食品丰收的年份。”然后和1973年严峻的环境下的工作对比一下，“人们忍受着饥饿、体重下降和广泛发生的社会骚乱。”在1986年，Nancy Howell写道“…昆人非常瘦，一年中总是抱怨饥饿。”[4](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn4)在《喀拉哈里沙漠中的猎人和栖息地》一文中，乔治·B·施巴布亚认为“毫无疑问，布须曼人在严重的干旱年份过得很艰难。”，他又描述了另外37个桑人在1939年的旱灾中如何死于脱水[5](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn5) 。其后，在一篇1986年名为“人种志的浪漫主义和人类自然的观点”文章中，梅尔文·科纳和玛乔丽·肖斯特克总结得非常好：“发病率和死亡率的数据表明，虽然并不一定和丰富程度有关，但用‘丰饶’这个形容词肯定是不合适的。”[6](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn6)
 
 ![](/img/2019-10-29-romanticizing-hunter-gatherer/2.jpg)
-
-Two Hadzabe men in Tanzania returning from a hunt.坦桑尼亚两个狩猎归来的哈扎比人
+_Two Hadzabe men in Tanzania returning from a hunt.坦桑尼亚两个狩猎归来的哈扎比人_
 
 In his later work, Lee would acknowledge that, “Historically, the Ju/’hoansi have had a high infant mortality rate…”[7](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn7) In a study on the life histories of the !Kung NancyHowell found that the number of infants who died before the age of 1 was roughly 20 percent.[8](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn8) (As high as this number is, it compares favorably with estimates from some other hunter-gatherer societies, such as among the Casiguran Agta of the Phillipines, where the rate is 34 percent.)[9](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn9)  Life expectancy for the !Kung is 36 years of age.[10](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn10) Again, while this number is only about half the average life expectancy found among contemporary nation states, this number still compares favorably with several other hunter-gatherer populations, such as the Hiwi (27 years) and the Agta (21 years). Life expectancy across pygmy hunter-gatherer societies is even lower, ranging from about 16-24 years, although this may have as much to do with pygmy physiology as with the hunter-gatherer lifestyle.[11](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn11)
 
@@ -76,10 +74,8 @@ It is also instructive to compare the homicide rates of hunter-gatherer societie
 比较狩猎-采集社会和当代民族国家的谋杀率也能很受启发。在2013年一篇名为“从和平到好战”的论文中，人类学家Robert Kelly提供了15个采集-狩猎社会的的杀人数据。[24](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn24)
 
 ![](/img/2019-10-29-romanticizing-hunter-gatherer/3.jpg)
-
-*Kelly’s table is published in ‘War, Peace and Human Nature: The Convergence ofEvolutionary and Cultural Views’ edited by Douglas P. Fry, p 153.*
-
-_Kelly 的数据表发表在道格拉斯·弗莱所编的《战争，和平和人性：进化和文化观点的收敛性》一书中_
+_Kelly’s table is published in ‘War, Peace and Human Nature: The Convergence ofEvolutionary and Cultural Views’ edited by Douglas P. Fry, p 153.  
+Kelly 的数据表发表在道格拉斯·弗莱所编的《战争，和平和人性：进化和文化观点的收敛性》一书中_
 
 11 of these 15 societies have homicide rates higher than that of the most violent [modern nation](https://en.wikipedia.org/wiki/List_of_countries_by_intentional_homicide_rate#By_country), and 14 out of the 15 have homicide rates higher than that of the United States in 2016. The one exception, the Batek of Malaysia, have a long history of being violently attacked and enslaved by neighboring groups, and developed a survival tactic of running away and studiously avoiding conflict. Yet even they recount tales of wars in the past, where their shamans would shoot enemies with blowpipes.[25](http://quillette.com/2017/12/16/romanticizing-hunter-gatherer/#_ftn25) Interestingly, Ivan Tacey & Diana Riboli have noted that “…the Batek frequently recount their nostalgic memories of British doctors, administrators and army personnel visiting their communities in helicopters to deliver medicines and other supplies,” which conflicts with the idea that hunter-gatherer societies would have no want or need of anything nation states have to offer. From 1920-1955 the !Kung had a homicide rate of 42 / 100,000 (about 8 times that of the US rate in 2016), however Kelly mentions that, “murders ceased after 1955 due to the presence of an outside police force.”
 
