@@ -11,11 +11,11 @@ thumbnail: /img/thumbnails/DNA手段入侵考古学领域.jpg
 proof_reader: Drunkplane-zny
 ---
 
-​​Divided by DNA:
+​​**Divided by DNA:**
 
-The uneasy relationship between archaeology and ancient genomics
+**The uneasy relationship between archaeology and ancient genomics**
 
-DNA 分歧：考古学与古基因组学之间的不稳定关系
+**DNA 分歧：考古学与古基因组学之间的不稳定关系**
 
 
 _Two fields in the midst of a technological revolution are struggling to reconcile their views of the past. Ancient genomes are revolutionizing the study of human prehistory but sometimes straining the relationships between archaeologists and geneticists._
