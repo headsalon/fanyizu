@@ -6,7 +6,7 @@ writing_time: 2016-08-29
 tags: [监管, FDA]
 disqus_identifier: "2020-10-30-reverse-voxsplaining-drugs-vs-chairs"
 source: "[Slate Star Codex](http://slatestarcodex.com/2016/08/29/reverse-voxsplaining-drugs-vs-chairs)"
-description: "会怎样？"
+description: "都给我管起来"
 translator: "hannabi"
 proof_reader: 混乱阈值
 thumbnail: /img/thumbnails/关于监管：一个老掉牙的故事.jpeg
