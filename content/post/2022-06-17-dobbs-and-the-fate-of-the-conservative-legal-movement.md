@@ -125,7 +125,7 @@ These characteristics of <em>Roe</em> had different political and legal effects.
 罗诉韦德案的这些特点产生了不同的政治和法律影响。政治上，罗诉韦德案成了社会保守派共同反对的案例。虽然，保守派法律运动最初是对沃伦法院的反应，但它的成熟是对沃伦与伯格法院的反应。挑选愿意推翻罗诉韦德案的大法官的必要性，是社会保守派加入支持罗纳德·里根的广泛联盟的主要原因，这也反映在了 1980 年的共和党纲领，当中承诺「在各级司法机构任命尊重传统家庭价值观以及无辜生命神圣性的法官。」 
 
 ![](/img/2022-06-17-dobbs-and-the-fate-of-the-conservative-legal-movement/2.jpeg)
-_Yale law professor Robert Bork helped spark a legal counterrevolution when he argued that the Court’s legitimacy rests on its ability to derive principles neutrally from the text and history of the Constitution. 耶鲁法学院教授罗伯特·博克指出最高法院的合法性依赖于它从宪法的文本和历史中中性地推断出原则的能力，这助燃了一场法律上的反革命（反进步主义）运动。_
+_Yale law professor Robert Bork helped spark a legal counterrevolution when he argued that the Court’s legitimacy rests on its ability to derive principles neutrally from the text and history of the Constitution. 耶鲁法学院教授罗伯特·博克指出最高法院的合法性取决于其从宪法文本和历史中立地推导出原则的能力，这助燃了一场法律上的反革命运动。_
 
 It is also the primary reason that antiabortion voters have continued to support the Republican Party in the four decades since 1980, including through bruising (and not always successful) confirmation battles. Even after the deep disappointment of the Court’s refusal to overrule <em>Roe</em> in <em>Casey</em>—a refusal spearheaded by three Reagan- and Bush-nominated justices—these voters stayed with the broader conservative legal movement, always being promised that overruling <em>Roe</em> was just around the corner. 
 
