@@ -90,7 +90,7 @@ The second tension is equally significant. From the beginning, legal conservativ
 
 If we are not bound by the Constitution, the judge would be free to ignore a faithful interpretation and proceed to rewrite the Constitution instead. To explain why this would be wrong, one would need to show that the judge has an obligation to obey the Constitution as written. Moreover, the moral stance shapes how we interpret the Constitution because this tells us the purpose of interpreting it. If, for example, a judge believes (as many progressive constitutional theorists do) that the only way that the Constitution can have morally binding force is if its meaning can be revised without a formal constitutional amendment, that moral justification would require rejecting originalism and embracing a theory that allowed judges to change the document’s meaning over time. 
 
-假如我们不受宪法的约束，法官大可以无视忠实解释并着手重写宪法。为解释这样做为什么是错误的，我们需要证明法官有义务遵从宪法原文。此外，道德立场决定了我们如何解释宪法，因为它告诉我们解释宪法的目的。譬如，如果法官认为（正如许多进步派宪法理论家所认为的），宪法要具有道德约束力，除非其含义可以在没有正式宪法修正案的情况下被修改，这种道德论证就需要拒绝原旨主义，并接受一种允许法官随时间推移改变文件含义的理论。 
+假如我们不受宪法的约束，法官大可以无视忠实解释并着手重写宪法。为解释这样做为什么是错误的，我们需要证明法官有义务遵从宪法原文。此外，道德立场决定了我们如何解释宪法，因为它告诉我们解释宪法的目的。譬如，如果法官认为（正如许多进步派宪法理论家所认为的），宪法只有当其含义可以在没有正式宪法修正案的情况下被修改的时才具有道德约束力，这种道德论证就需要拒绝原旨主义，并接受一种允许法官随时间推移改变文件含义的理论。 
 
 Since originalism, like any other constitutional theory, ultimately rests on a moral argument, it can be challenged by those who find that argument insufficient. As former Amherst professor Hadley Arkes [wrote](https://www.firstthings.com/web-exclusives/2020/06/a-morally-empty-jurisprudence) in *First Things* recently (addressing both originalism and its statutory counterpart, textualism), because originalism is “deeply reluctant to make [the] move beyond ‘tradition’ and [the text] to the moral truth of the matter,” it “indeed has nothing to say on matters of real consequence. It is a morally empty jurisprudence.” 
 
@@ -143,7 +143,11 @@ Overruling <em>Roe</em> would, as Justice Brett Kavanaugh put it during the <em>
 
 正如布雷特·卡瓦诺(Brett Kavanaugh)大法官在多布斯口头辩论中所说的，推翻罗诉韦德案将使法院在 「堕胎问题上保持严格中立」，而该问题所激发的热情在美国历史上是鲜有的。在保守派法律运动中，对原旨主义道德的批评通常来自社会保守派，他们认为堕胎合法化是一种道德之恶，在我们历史上，只有奴隶制合法化可与之匹敌，因此他们也毫不犹豫地反对罗诉韦德案。各式各样立场，在法律保守派中引发了重大分歧，除了一点，罗诉韦德案是个独特的无法无天的判决，必须被推翻。 
 
-<em>Dobbs</em> has the potential to destroy this unity. Just as the goal of overruling <em>Roe</em> is unique in its ability to unite the movement, the failure to overrule <em>Roe</em> in <em>Dobbs</em> would be unique in its ability to destroy the movement. 多布斯案有可能破坏这种团结。正如推翻罗诉韦德案的目标团结该运动的能力是独特的，假若在多布斯案中未能推翻罗诉韦德案，其摧毁该运动的能力也会是独特的。 Expectations play a decisive role in this dynamic. Though (again, under a proper understanding of the judicial role) those expectations should play no role in the Court’s decision in <em>Dobbs</em>, they are essential in considering the potential effect of <em>Dobbs</em> on the conservative legal movement. On the political side, the failure of the Reagan and Bush appointees to overrule <em>Roe</em> in <em>Casey</em> was a huge blow to the conservative legal movement, and the feeling of disgust after decades of political and legal efforts was palpable. Nonetheless, the movement pressed on over the next 30 years. 
+<em>Dobbs</em> has the potential to destroy this unity. Just as the goal of overruling <em>Roe</em> is unique in its ability to unite the movement, the failure to overrule <em>Roe</em> in <em>Dobbs</em> would be unique in its ability to destroy the movement. 
+
+多布斯案有可能破坏这种团结。正如推翻罗诉韦德案的目标团结该运动的能力是独特的，假若在多布斯案中未能推翻罗诉韦德案，其摧毁该运动的能力也会是独特的。 
+
+Expectations play a decisive role in this dynamic. Though (again, under a proper understanding of the judicial role) those expectations should play no role in the Court’s decision in <em>Dobbs</em>, they are essential in considering the potential effect of <em>Dobbs</em> on the conservative legal movement. On the political side, the failure of the Reagan and Bush appointees to overrule <em>Roe</em> in <em>Casey</em> was a huge blow to the conservative legal movement, and the feeling of disgust after decades of political and legal efforts was palpable. Nonetheless, the movement pressed on over the next 30 years. 
 
 期望在此事态中起着决定性作用。尽管（再一次，根据对司法职责的正确理会），这些期望不应影响法院对多布斯案的判决，但在考虑多布斯案对保守派法律运动的潜在影响时，它们是至关重要的。在政治方面，里根和布什任命的大法官未能在凯西案中推翻罗诉韦德案，对于保守派法律运动是一次沉重打击，加之那几十年的政治和法律努力，人们的嫌恶感可想而知。尽管如此，该运动在此后 30 年里仍在继续推进。 
 
