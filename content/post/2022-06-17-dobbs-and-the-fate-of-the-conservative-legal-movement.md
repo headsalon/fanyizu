@@ -1,6 +1,6 @@
 ---
 title: 保守派法律运动的命运
-author: Scott Alexander
+author: J. Joel Alicea
 date: 2022-06-17
 writing_time: "Winter 2022"
 tags: [法律, 保守主义]
