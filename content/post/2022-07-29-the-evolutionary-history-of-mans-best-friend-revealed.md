@@ -5,7 +5,7 @@ date: 2022-07-29
 writing_time: "2022-10-29"
 tags: [动物, 进化, 进化生物学]
 disqus_identifier: "2022-07-29-the-evolutionary-history-of-mans-best-friend-revealed"
-source: "[Quillette]([https://www.city-journal.org/dobbs-and-the-fate-of-the-conservative-legal-movement](https://quillette.com/2020/10/29/the-evolutionary-history-of-mans-best-friend-revealed))"
+source: "[Quillette](https://quillette.com/2020/10/29/the-evolutionary-history-of-mans-best-friend-revealed)"
 description: "由于人类，我们星球的生态系统在过去四万年里发生了大幅转变。我们这一物种为自己的目的重塑了这个星球，可以说，我们生活在「人类世」。家犬的演化史反映了人类第一次，也是最长的一次生物工程实验。"
 translator: "DeepL"
 proof_reader: FungChuh
