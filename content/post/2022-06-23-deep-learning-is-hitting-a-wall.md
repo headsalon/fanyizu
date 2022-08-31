@@ -1,3 +1,18 @@
+---
+title: 深度学习陷入瓶颈
+author: Gary Marcus
+date: 2022-06-30
+writing_time: "2022-3-10"
+tags: [人工智能]
+disqus_identifier: "2022-06-23-deep-learning-is-hitting-a-wall"
+source: "[Nautilus](https://nautil.us/deep-learning-is-hitting-a-wall-14467)"
+description: "「有些人一直倡导「混合模型」，将深度学习和符号处理的元素相互结合，辛顿及他的追随者则一次又一次鼓动将符号踢到一边。为什么？没有人给出过一个令人信服的科学解释。也许答案在历史中......」"
+translator: "DeepL"
+proof_reader: FungChuh
+thumbnail: /img/thumbnails/深度学习陷入瓶颈.jpeg
+---
+_人工智能如何才能取得真正的进步？_
+
 Let me start by saying a few things that seem obvious,” Geoffrey Hinton, “Godfather” of deep learning, and one of the most celebrated scientists of our time, told a leading AI conference in Toronto in 2016. “If you work as a radiologist you’re like the coyote that’s already over the edge of the cliff but hasn’t looked down.” Deep learning is so well-suited to reading images from MRIs and CT scans, he reasoned, that people should “stop training radiologists now” and that it’s “just completely obvious within five years deep learning is going to do better.”
 
 在 2016 年多伦多举行的一场重要的人工智能会议上，深度学习「教父」，我们时代最著名的科学家之一，杰弗里·辛顿（Geoffrey Hinton）说道，「让我先从几件似乎显而易见的事开始。如果你是一名放射科医生，那你就像是一只已身处悬崖边却不自知的土狼。」他推断，深度学习很适用于读取核磁共振（MRIs）和 CT扫描图像，人们应该「从现在开始停止培训放射科医生」，并且「深度学习显然会五年内取得更大进步。」
