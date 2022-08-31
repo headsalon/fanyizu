@@ -29,6 +29,9 @@ paginate = 12
 [[menu.main]]
     name = "RSS"
     url = "/index.xml"
+[[menu.main]]
+    name = "搜索"
+    url = "https://www.google.com/search?q=site%3Ahttps%3A%2F%2Ftranslations.headsalon.org"
 
 [params]
     description = "我们是一群搬砖工，负责将英文世界的好文章搬进中文世界"
